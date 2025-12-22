@@ -1,0 +1,100 @@
+module.exports = {
+  content: ["./client/index.html", "./client/src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{html,js,ts,jsx,tsx}",
+    "app/**/*.{ts,tsx}",
+    "components/**/*.{ts,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        "app-primary": "var(--app-primary)",
+        "for-bg-dark": "var(--for-bg-dark)",
+        "graysgray-6": "var(--graysgray-6)",
+        icons: "var(--icons)",
+        "image-placeholder": "var(--image-placeholder)",
+        placeholder: "var(--placeholder)",
+        white: "var(--white)",
+        border: "hsl(var(--border))",
+        input: "hsl(var(--input))",
+        ring: "hsl(var(--ring))",
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        primary: {
+          DEFAULT: "hsl(var(--primary))",
+          foreground: "hsl(var(--primary-foreground))",
+        },
+        secondary: {
+          DEFAULT: "hsl(var(--secondary))",
+          foreground: "hsl(var(--secondary-foreground))",
+        },
+        destructive: {
+          DEFAULT: "hsl(var(--destructive))",
+          foreground: "hsl(var(--destructive-foreground))",
+        },
+        muted: {
+          DEFAULT: "hsl(var(--muted))",
+          foreground: "hsl(var(--muted-foreground))",
+        },
+        accent: {
+          DEFAULT: "hsl(var(--accent))",
+          foreground: "hsl(var(--accent-foreground))",
+        },
+        popover: {
+          DEFAULT: "hsl(var(--popover))",
+          foreground: "hsl(var(--popover-foreground))",
+        },
+        card: {
+          DEFAULT: "hsl(var(--card))",
+          foreground: "hsl(var(--card-foreground))",
+        },
+      },
+      fontFamily: {
+        a: "var(--a-font-family)",
+        "h-1": "var(--h-1-font-family)",
+        "h-3": "var(--h-3-font-family)",
+        "h-4": "var(--h-4-font-family)",
+        p: "var(--p-font-family)",
+        "p-medium": "var(--p-medium-font-family)",
+        "p1-regular": "var(--p1-regular-font-family)",
+        "p1-semibold": "var(--p1-semibold-font-family)",
+        "p2-regular": "var(--p2-regular-font-family)",
+        "p2-semibold": "var(--p2-semibold-font-family)",
+        "p3-regular": "var(--p3-regular-font-family)",
+        "p3-semibold": "var(--p3-semibold-font-family)",
+        "p4-semibold": "var(--p4-semibold-font-family)",
+        sans: [
+          "ui-sans-serif",
+          "system-ui",
+          "sans-serif",
+          '"Apple Color Emoji"',
+          '"Segoe UI Emoji"',
+          '"Segoe UI Symbol"',
+          '"Noto Color Emoji"',
+        ],
+      },
+      boxShadow: { "EF-1": "var(--EF-1)" },
+      borderRadius: {
+        lg: "var(--radius)",
+        md: "calc(var(--radius) - 2px)",
+        sm: "calc(var(--radius) - 4px)",
+      },
+      keyframes: {
+        "accordion-down": {
+          from: { height: "0" },
+          to: { height: "var(--radix-accordion-content-height)" },
+        },
+        "accordion-up": {
+          from: { height: "var(--radix-accordion-content-height)" },
+          to: { height: "0" },
+        },
+      },
+      animation: {
+        "accordion-down": "accordion-down 0.2s ease-out",
+        "accordion-up": "accordion-up 0.2s ease-out",
+      },
+    },
+    container: { center: true, padding: "2rem", screens: { "2xl": "1400px" } },
+  },
+  plugins: [require("tailwindcss-animate"), require("@tailwindcss/typography")],
+  darkMode: ["class"],
+};

@@ -1,0 +1,1008 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const imgImage2 = "https://www.figma.com/api/mcp/asset/11d97394-31de-4170-b5e1-64f194d21e74";
+const imgRectangle4403 = "https://www.figma.com/api/mcp/asset/293b1934-699d-4d8c-b7ba-39fbe68d6e0e";
+const imgRectangle4405 = "https://www.figma.com/api/mcp/asset/bc55ed55-fa51-409c-9c9c-32b29adc0436";
+const imgRectangle4406 = "https://www.figma.com/api/mcp/asset/562a5e72-10e4-4829-a3e4-a2c24f45c7a5";
+const imgRectangle4407 = "https://www.figma.com/api/mcp/asset/7ae15620-a005-4252-822e-bdcc7cf21bb9";
+const imgFrame2071857208 = "https://www.figma.com/api/mcp/asset/611dabf6-474b-447d-b111-f99afb0f57c1";
+const imgRectangle625 = "https://www.figma.com/api/mcp/asset/361e3c97-2048-45bb-9ffa-43afa82866de";
+const imgIcon = "https://www.figma.com/api/mcp/asset/dfe0a7b8-a281-4b5a-a199-a86fca8069c7";
+const img = "https://www.figma.com/api/mcp/asset/b46bc653-98ca-42af-a957-7771735c1d70";
+const img1 = "https://www.figma.com/api/mcp/asset/b763d913-5759-494e-a33d-0dc58bd6dda2";
+const img2 = "https://www.figma.com/api/mcp/asset/4325cec9-bd49-4170-bc7a-8f7e78fce4da";
+const img3 = "https://www.figma.com/api/mcp/asset/a5f2c501-1092-4186-ba31-9f01c12154f8";
+const img4 = "https://www.figma.com/api/mcp/asset/e4be74a5-3b69-463c-b0be-e4197582a69c";
+const img5 = "https://www.figma.com/api/mcp/asset/faddb252-78bc-434f-9da5-4cf6246c5617";
+const img6 = "https://www.figma.com/api/mcp/asset/c43f966f-6cda-46a2-ab63-b4ee3ec836da";
+const img7 = "https://www.figma.com/api/mcp/asset/bf7e498e-081a-4350-a952-561b4d835aac";
+const img8 = "https://www.figma.com/api/mcp/asset/937c99a9-c7a2-4716-9bbc-a71105a49ff4";
+const img9 = "https://www.figma.com/api/mcp/asset/3b05783d-d6a6-42a0-ae4f-643ad4d5017d";
+const img10 = "https://www.figma.com/api/mcp/asset/dcd7594c-45aa-415b-9839-824a1e716e69";
+const img11 = "https://www.figma.com/api/mcp/asset/ebcc6d1a-afb2-4a35-971a-3e5dbf48b586";
+const img12 = "https://www.figma.com/api/mcp/asset/9040f7a6-c93c-4741-8ba3-e087dd1b8a9f";
+const img13 = "https://www.figma.com/api/mcp/asset/1d300132-880c-499f-8475-c3e42d034c03";
+const img14 = "https://www.figma.com/api/mcp/asset/4cf7eaa2-8af8-4e85-8c2c-8be5f6aac619";
+const imgVector4 = "https://www.figma.com/api/mcp/asset/17f12fd0-833b-4c46-ac82-e1292454716e";
+const imgCheckBox = "https://www.figma.com/api/mcp/asset/71b75a4d-2506-45b4-bbfd-e229d61a69ff";
+const img15 = "https://www.figma.com/api/mcp/asset/f5714cdb-e65a-43fb-a785-2a82b2740be2";
+const imgIcon1 = "https://www.figma.com/api/mcp/asset/d155f217-b52a-43e7-873b-24d85164f9bc";
+const imgSvg = "https://www.figma.com/api/mcp/asset/ea96c84e-ee82-427f-afd0-f1320ce1b6df";
+const img16 = "https://www.figma.com/api/mcp/asset/10fcce53-3375-4a77-bd67-6982eb7a381c";
+const imgGroup = "https://www.figma.com/api/mcp/asset/f28b4d00-e287-4bf4-ae28-7b18df4568c6";
+const img17 = "https://www.figma.com/api/mcp/asset/cb130de4-5cc6-4901-9e4c-5ed7e4724a3b";
+const imgFluentMail24Regular = "https://www.figma.com/api/mcp/asset/30d15a1a-4ab1-42cf-aa0c-b0e8e5ba709e";
+const imgGroup1 = "https://www.figma.com/api/mcp/asset/d455396b-4083-4cce-9135-4be6543badcc";
+const imgGroup3693 = "https://www.figma.com/api/mcp/asset/0f693f4a-dc2b-40f9-8987-bebd52d66a0f";
+const imgGroup2 = "https://www.figma.com/api/mcp/asset/b1b83d9a-78a5-42fb-aebe-d7c4f49746ef";
+const imgWhatsapp = "https://www.figma.com/api/mcp/asset/18d81221-4977-41b3-9a64-3d7ad0d86a74";
+const imgGroup3702 = "https://www.figma.com/api/mcp/asset/9ad5e6c8-ba30-462f-903c-6cfa9771aea5";
+const imgVector = "https://www.figma.com/api/mcp/asset/406c14d3-8b6b-4fe1-a5e8-7738db409472";
+type ArrowLeftProps = {
+  className?: string;
+  size?: "48";
+};
+
+function ArrowLeft({ className, size = "48" }: ArrowLeftProps) {
+  return (
+    <div data-node-id="15:7160" className={className}>
+      <div data-node-id="15:7166" className="absolute inset-[20.83%]" data-name="Icon">
+        <div className="absolute inset-[-7.14%]" style={{ "--stroke-0": "rgba(30, 30, 30, 1)" } as React.CSSProperties}>
+          <img className="block max-w-none size-full" alt="" src={imgIcon} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function DetailsView() {
+  return (
+    <a className="bg-white box-border content-stretch cursor-pointer flex flex-col gap-[60px] items-center justify-center p-0 relative size-full" data-name="Details View" data-node-id="7941:1682">
+      <div className="content-stretch flex flex-col gap-[61px] items-center relative shrink-0 w-full" data-node-id="7941:1683">
+        <div className="bg-[#1c1c1b] box-border content-stretch flex items-center justify-between px-[110px] py-[32px] relative shrink-0 w-full" data-name="Section" data-node-id="7941:1684">
+          <div className="h-[42px] relative shrink-0 w-[265px]" data-name="image 2" data-node-id="7941:1685">
+            <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage2} />
+          </div>
+          <div className="h-[45px] relative shrink-0 w-[725px]" data-name="div.elementor-element" data-node-id="7941:1686">
+            <div className="absolute bg-white inset-[99.54%_64.11%_-3.99%_23.86%]" data-name="Navigation → List → Item" data-node-id="7941:1687" />
+            <div className="absolute capitalize flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[44.58px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1688" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[26.6px]">{`Home `}</p>
+            </div>
+            <div className="absolute capitalize flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[187px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1689" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[26.6px]">Projects</p>
+            </div>
+            <div className="absolute capitalize flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[346px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1690" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[26.6px]">{`Blog `}</p>
+            </div>
+            <div className="absolute capitalize flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[478px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1691" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[26.6px]">About Us</p>
+            </div>
+            <div className="absolute capitalize flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[643px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1692" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[26.6px]">Contact Us</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-[1700px]" data-node-id="7941:1693">
+          <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:1694">
+            <div className="content-stretch flex gap-[30px] items-start relative shrink-0 w-full" data-node-id="7941:1702">
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[16px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1703">
+                <div className="content-stretch flex gap-[10px] items-center relative shrink-0 w-full" data-node-id="7941:1704">
+                  <div className="content-stretch flex gap-[32px] items-center relative shrink-0" data-node-id="7941:1705">
+                    <ArrowLeft className="overflow-clip relative shrink-0 size-[48px]" />
+                    <p className="capitalize font-['Roboto:Bold',sans-serif] font-bold leading-[normal] relative shrink-0 text-[40px] text-[color:var(--general\/900,#1c1c1b)]" data-node-id="7941:1707" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      THEON AT ATHLON
+                    </p>
+                  </div>
+                </div>
+                <div className="box-border content-stretch flex gap-[6px] items-center px-[80px] py-0 relative shrink-0 w-[467px]" data-node-id="7941:1708">
+                  <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:1709">
+                    <div className="absolute inset-[4.17%_9.47%_1.04%_12.5%]" data-name="Group" data-node-id="I7941:1709;56:6302">
+                      <img alt="" className="block max-w-none size-full" src={img} />
+                    </div>
+                  </div>
+                  <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#717171] text-[16px] whitespace-nowrap" data-node-id="7941:1710" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">{` Theon at Athlon,  Athlon by Aldar,  Dubai Land,  Dubai`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[12px] items-end justify-center leading-[normal] relative shrink-0 text-right" data-node-id="7941:1711">
+                <p className="capitalize font-['Roboto:Bold',sans-serif] font-bold relative shrink-0 text-[#ef7f1a] text-[40px]" data-node-id="7941:1712" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  4,500,000 AED / Sale
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal min-w-full relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)] w-[min-content] whitespace-pre-wrap" data-node-id="7941:1713" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  1,200/Sq Ft
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[10px] items-start justify-center relative shrink-0 w-full" data-node-id="7941:1714">
+            <div className="h-[536px] relative rounded-[4px] shrink-0 w-[1147px]" data-node-id="7941:1715">
+              <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[4px]">
+                <div className="absolute bg-[#d9d9d9] inset-0 rounded-[4px]" />
+                <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[4px] size-full" src={imgRectangle4403} />
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="7941:1716">
+              <div className="relative shrink-0 size-[263px]" data-node-id="7941:1717">
+                <div className="absolute inset-0 rounded-[4px]" data-node-id="7941:1718">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[4px]">
+                    <div className="absolute bg-[#d9d9d9] inset-0 rounded-[4px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[4px] size-full" src={imgRectangle4405} />
+                  </div>
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[263px]" data-node-id="7941:1719">
+                <div className="absolute inset-0 rounded-[4px]" data-node-id="7941:1720">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[4px]">
+                    <div className="absolute bg-[#d9d9d9] inset-0 rounded-[4px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[4px] size-full" src={imgRectangle4406} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="7941:1721">
+              <div className="relative shrink-0 size-[263px]" data-node-id="7941:1722">
+                <div className="absolute inset-0 rounded-[4px]" data-node-id="7941:1723">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[4px]">
+                    <div className="absolute bg-[#d9d9d9] inset-0 rounded-[4px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[4px] size-full" src={imgRectangle4407} />
+                  </div>
+                </div>
+              </div>
+              <div className="box-border content-stretch flex flex-col gap-[10px] items-center justify-center overflow-clip p-[30px] relative rounded-[10px] shrink-0 size-[263px]" data-node-id="7941:1724">
+                <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[10px]">
+                  <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[10px] size-full" src={imgFrame2071857208} />
+                  <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0.05)] inset-0 rounded-[10px] to-[rgba(0,0,0,0.5)]" />
+                </div>
+                <div className="backdrop-blur-[15px] backdrop-filter bg-[rgba(37,75,134,0.5)] box-border content-stretch flex gap-[10px] items-center justify-center overflow-clip p-[20px] relative rounded-[10px] shrink-0" data-node-id="7941:1725">
+                  <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="7941:1726">
+                    <p className="font-['Lato:Bold',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[30px] text-white" data-node-id="7941:1727">
+                      +1
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[28px] items-start relative shrink-0 w-[1694px]" data-node-id="7941:1728">
+        <div className="bg-white content-stretch flex flex-col gap-[40px] items-start relative rounded-[10px] shrink-0 w-full" data-name="left" data-node-id="7941:1729">
+          <div className="content-stretch flex gap-[40px] items-start relative shrink-0 w-[1695px]" data-node-id="7941:1730">
+            <div className="content-stretch flex flex-col gap-[28px] items-start relative shrink-0 w-[1695px]" data-node-id="7941:1731">
+              <div className="content-stretch flex flex-col gap-[30px] h-[145px] items-start leading-[normal] relative shrink-0 w-full" data-node-id="7941:1732">
+                <p className="font-['Roboto:SemiBold',sans-serif] font-semibold relative shrink-0 text-[#181a20] text-[#1c1c1e] text-[0px] text-[32px]" data-node-id="7941:1733" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <span style={{ fontVariationSettings: "'wdth' 100" }}>{`2 CORNER UNIT | NEAR TO AMENITIES  | NEGOTIABLE `}</span>
+                  <span style={{ fontVariationSettings: "'wdth' 100" }}> </span>
+                </p>
+                <p className="flex-[1_0_0] font-['Roboto:Regular',sans-serif] font-normal min-h-px min-w-px relative shrink-0 text-[#575757] text-[18px] w-full whitespace-pre-wrap" data-node-id="7941:1734" style={{ fontVariationSettings: "'wdth' 100" }}>{`Prop Shop Global Real Estate presents this brand-new 4-bedroom Townhouse in Theon at Athlon,  a contemporary sub-community within the vibrant Athlon district in Dubai. This Townhouse offers  an excellent opportunity for families and investors looking to be part of a modern, amenity-rich  community`}</p>
+              </div>
+              <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-name="Overview" data-node-id="7941:1735">
+                <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="7941:1736">
+                  <div className="flex-[1_0_0] h-[35px] min-h-px min-w-px relative shrink-0" data-node-id="7941:1737">
+                    <p className="absolute font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] left-0 text-[#181a20] text-[32px] top-0" data-node-id="7941:1738" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Property Features
+                    </p>
+                  </div>
+                  <p className="font-['Lato:Medium',sans-serif] leading-[1.6] not-italic relative shrink-0 text-[#181a20] text-[16px]" data-node-id="7941:1739">
+                    Reference ID: SUJ01-ALDARD3-041
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:1740">
+                  <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex gap-[97px] items-center p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1741">
+                    <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0" data-node-id="7941:1742">
+                      <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[62px]" data-node-id="7941:1743">
+                        <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Component 6" data-node-id="7941:1744">
+                          <div className="absolute inset-[72.92%_8.33%_27.08%_8.33%]" data-name="Vector" data-node-id="I7941:1744;2010:11315">
+                            <div className="absolute inset-[-1px_-5%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img1} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-[12.5%] left-[8.33%] right-[8.33%] top-1/2" data-name="Vector" data-node-id="I7941:1744;2010:11316">
+                            <div className="absolute inset-[-11.11%_-5%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img2} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-1/2 left-1/4 right-[54.17%] top-[37.5%]" data-name="Vector" data-node-id="I7941:1744;2010:11317">
+                            <div className="absolute inset-[-33.33%_-20%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img3} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-1/2 left-[54.17%] right-1/4 top-[37.5%]" data-name="Vector" data-node-id="I7941:1744;2010:11318">
+                            <div className="absolute inset-[-33.33%_-20%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img4} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-1/2 left-[12.5%] right-[12.5%] top-[12.5%]" data-name="Vector" data-node-id="I7941:1744;2010:11319">
+                            <div className="absolute inset-[-11.11%_-5.56%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img5} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] whitespace-nowrap" data-node-id="7941:1745" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          <p className="leading-[1.6]">4</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1746" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Bedrooms + Maid Room
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1747">
+                      <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[62px]" data-node-id="7941:1748">
+                        <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:1749">
+                          <div className="absolute inset-[83.34%_21.72%_12.5%_21.72%]" data-name="Vector" data-node-id="I7941:1749;100:8665">
+                            <div className="absolute inset-[-100%_-7.37%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img6} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-[16.66%] left-[13.64%] right-[13.64%] top-1/2" data-name="Vector" data-node-id="I7941:1749;100:8666">
+                            <div className="absolute inset-[-12.5%_-5.73%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img7} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-1/2 left-[9.6%] right-[9.6%] top-1/2" data-name="Vector" data-node-id="I7941:1749;100:8667">
+                            <div className="absolute inset-[-1px_-5.16%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img8} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-1/2 left-[17.68%] right-[62.12%] top-[12.5%]" data-name="Vector" data-node-id="I7941:1749;100:8668">
+                            <div className="absolute inset-[-11.11%_-20.63%_-11.11%_-20.62%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img9} />
+                            </div>
+                          </div>
+                          <div className="absolute bottom-3/4 left-[33.84%] right-[56.06%] top-[16.67%]" data-name="Vector" data-node-id="I7941:1749;100:8669">
+                            <div className="absolute inset-[-50%_-41.25%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img10} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] whitespace-nowrap" data-node-id="7941:1750" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          <p className="leading-[1.6]">5</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] min-w-full relative shrink-0 text-[#575757] text-[18px] w-[min-content] whitespace-pre-wrap" data-node-id="7941:1751" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Bathrooms
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1752">
+                      <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[62px]" data-node-id="7941:1753">
+                        <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:1754">
+                          <div className="absolute bottom-0 left-0 right-0 top-[4.17%]" data-name="Vector" data-node-id="I7941:1754;100:8662">
+                            <div className="absolute inset-0" style={{ "--fill-0": "rgba(138, 138, 138, 1)", "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img11} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] whitespace-nowrap" data-node-id="7941:1755" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          <p className="leading-[1.6]">2</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] min-w-full relative shrink-0 text-[#575757] text-[18px] w-[min-content] whitespace-pre-wrap" data-node-id="7941:1756" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Garage
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1757">
+                      <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[62px]" data-node-id="7941:1758">
+                        <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:1759">
+                          <div className="absolute bottom-[0.02%] left-0 right-0 top-[0.02%]" data-name="Group" data-node-id="I7941:1759;100:8689">
+                            <img alt="" className="block max-w-none size-full" src={img12} />
+                          </div>
+                        </div>
+                        <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] whitespace-nowrap" data-node-id="7941:1760" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          <p className="leading-[1.6]">2025</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] min-w-full relative shrink-0 text-[#575757] text-[18px] w-[min-content] whitespace-pre-wrap" data-node-id="7941:1761" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Year Built
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1762">
+                      <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[62px]" data-node-id="7941:1763">
+                        <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:1764">
+                          <div className="absolute inset-[29.17%_29.17%_29.16%_29.17%]" data-name="Vector" data-node-id="I7941:1764;100:8682">
+                            <div className="absolute inset-[-10%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img13} />
+                            </div>
+                          </div>
+                          <div className="absolute inset-[10.42%_10.42%_10.41%_10.42%]" data-name="Vector" data-node-id="I7941:1764;100:8683">
+                            <div className="absolute inset-[-5.26%]" style={{ "--stroke-0": "rgba(138, 138, 138, 1)" } as React.CSSProperties}>
+                              <img alt="" className="block max-w-none size-full" src={img14} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] whitespace-nowrap" data-node-id="7941:1765" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          <p className="leading-[1.6]">3118 Sq Ft</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] min-w-full relative shrink-0 text-[#575757] text-[18px] w-[min-content] whitespace-pre-wrap" data-node-id="7941:1766" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Size
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:1767">
+                    <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-col gap-[16px] items-start justify-center p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1768">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1769">
+                        <div className="content-stretch flex gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:1770">
+                          <p className="flex-[1_0_0] font-['Roboto:Regular',sans-serif] font-normal leading-[normal] min-h-px min-w-px relative shrink-0 text-[#575757] text-[18px] whitespace-pre-wrap" data-node-id="7941:1771" style={{ fontVariationSettings: "'wdth' 100" }}>{`Spacious living and dining areas `}</p>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1772" style={{ fontVariationSettings: "'wdth' 100" }}>{`Open-plan kitchen with fitted cabinets `}</p>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1773" style={{ fontVariationSettings: "'wdth' 100" }}>{`Private garden and terrace access `}</p>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1774" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Built-in wardrobes and ample storage
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-name="Infor" data-node-id="7941:1775">
+                <div className="content-stretch flex flex-col gap-[12px] items-start leading-[normal] relative shrink-0 w-full whitespace-pre-wrap" data-node-id="7941:1776">
+                  <p className="font-['Roboto:SemiBold',sans-serif] font-semibold relative shrink-0 text-[#181a20] text-[32px] w-full" data-node-id="7941:1777" style={{ fontVariationSettings: "'wdth' 100" }}>{`Community & Amenities`}</p>
+                  <p className="font-['Roboto:Regular',sans-serif] font-normal relative shrink-0 text-[#575757] text-[18px] w-full" data-node-id="7941:1778" style={{ fontVariationSettings: "'wdth' 100" }}>{`Residents of Theon at Athlon enjoy access to the wide range of amenities in the Athlon community,  including:`}</p>
+                </div>
+                <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:1779">
+                  <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-col gap-[16px] items-start justify-center p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1780">
+                    <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1781">
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px] w-full whitespace-pre-wrap" data-node-id="7941:1782" style={{ fontVariationSettings: "'wdth' 100" }}>{`Basketball court, climbing wall, and skate park `}</p>
+                    </div>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1783" style={{ fontVariationSettings: "'wdth' 100" }}>{`Family and lap pools, splash pad, and outdoor cinema `}</p>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1784" style={{ fontVariationSettings: "'wdth' 100" }}>{`Outdoor fitness facilities, running track, and cycle routes `}</p>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1785" style={{ fontVariationSettings: "'wdth' 100" }}>{`Padel tennis court, table tennis courts, and yoga & meditation areas `}</p>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1786" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Landscaped gardens, clubhouse, and public transport access
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-[1694px]" data-name="Map location" data-node-id="7941:1787">
+            <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-name="Overview" data-node-id="7941:1793">
+              <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="7941:1794">
+                <div className="flex-[1_0_0] h-[35px] min-h-px min-w-px relative shrink-0" data-node-id="7941:1795">
+                  <p className="absolute font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] left-0 text-[#181a20] text-[32px] top-0" data-node-id="7941:1796" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    Specifications
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[30px] items-center justify-center relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1797">
+                <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="7941:1810">
+                  <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-col gap-[20px] items-start p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1811">
+                    <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="7941:1812">
+                      <div className="content-stretch flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1813">
+                        <p className="leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1814" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Status
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px]" data-node-id="7941:1815" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Ready
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1816">
+                        <p className="leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1817" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Rooms
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px] w-[11px] whitespace-pre-wrap" data-node-id="7941:1818" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          4
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1819">
+                        <p className="leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1820" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Bathrooms
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px] w-[11px] whitespace-pre-wrap" data-node-id="7941:1821" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          5
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1822">
+                        <p className="leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1823" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Year Built
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px]" data-node-id="7941:1824" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          2025-11-13
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1825">
+                        <p className="leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1826" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Land Area Size
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px]" data-node-id="7941:1827" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          3118 Sq Ft
+                        </p>
+                      </div>
+                    </div>
+                    <div className="flex h-0 items-center justify-center relative shrink-0 w-full">
+                      <div className="flex-none rotate-[270deg] w-full">
+                        <div className="h-[1634px] relative w-full" data-node-id="7941:1828">
+                          <div className="absolute inset-[-0.03%_-0.5px]" style={{ "--stroke-0": "rgba(224, 224, 224, 1)" } as React.CSSProperties}>
+                            <img alt="" className="block max-w-none size-full" src={imgVector4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="7941:1829">
+                      <div className="content-stretch flex flex-col font-['Roboto:Regular',sans-serif] font-normal gap-[12px] items-start justify-center relative shrink-0" data-node-id="7941:1830">
+                        <p className="leading-[normal] relative shrink-0 text-[#636366] text-[18px]" data-node-id="7941:1831" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          Property ID
+                        </p>
+                        <p className="leading-[1.6] relative shrink-0 text-[#181a20] text-[16px]" data-node-id="7941:1832" style={{ fontVariationSettings: "'wdth' 100" }}>
+                          SUJ01-ALDARD3-041
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-[1_0_0] flex-col gap-[12px] items-center justify-center min-h-px min-w-px shrink-0" data-node-id="7941:1833" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-name="Overview" data-node-id="7941:1836">
+              <div className="content-stretch flex gap-[30px] items-center relative shrink-0 w-full" data-node-id="7941:1837">
+                <div className="flex-[1_0_0] h-[35px] min-h-px min-w-px relative shrink-0" data-node-id="7941:1838">
+                  <p className="absolute font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] left-0 text-[#181a20] text-[32px] top-0" data-node-id="7941:1839" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    Amenities
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="7941:1852">
+                <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex gap-[30px] items-start p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1853">
+                  <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1854">
+                    <div className="relative shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1855">
+                      <img alt="" className="block max-w-none size-full" src={imgCheckBox} />
+                    </div>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1858" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Built in Wardrobes
+                    </p>
+                  </div>
+                  <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1859">
+                    <div className="relative shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1860">
+                      <img alt="" className="block max-w-none size-full" src={imgCheckBox} />
+                    </div>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1863" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Central A/C
+                    </p>
+                  </div>
+                  <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1864">
+                    <div className="relative shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1865">
+                      <img alt="" className="block max-w-none size-full" src={imgCheckBox} />
+                    </div>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1868" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Covered Parking
+                    </p>
+                  </div>
+                  <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1869">
+                    <div className="relative shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1870">
+                      <img alt="" className="block max-w-none size-full" src={imgCheckBox} />
+                    </div>
+                    <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1873" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Maids Room
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0" data-node-id="7941:1874">
+                    <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1875">
+                      <div className="overflow-clip relative rounded-[111px] shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1876">
+                        <div className="absolute bg-[#0088d2] inset-0 rounded-[3px]" data-name="bg" data-node-id="I7941:1876;1268:10277" />
+                        <div className="absolute inset-[28.86%_19.92%_23.5%_19.92%]" data-name="check" data-node-id="I7941:1876;1268:10278">
+                          <div className="absolute inset-[-13.12%_-31.17%_-65.6%_-31.17%]">
+                            <img alt="" className="block max-w-none size-full" src={img15} />
+                          </div>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1877" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Private Garden
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0" data-node-id="7941:1878">
+                    <div className="content-center flex flex-wrap gap-[6px] items-center relative shrink-0" data-node-id="7941:1879">
+                      <div className="overflow-clip relative rounded-[111px] shrink-0 size-[16px]" data-name="Check box" data-node-id="7941:1880">
+                        <div className="absolute bg-[#0088d2] inset-0 rounded-[3px]" data-name="bg" data-node-id="I7941:1880;1268:10277" />
+                        <div className="absolute inset-[28.86%_19.92%_23.5%_19.92%]" data-name="check" data-node-id="I7941:1880;1268:10278">
+                          <div className="absolute inset-[-13.12%_-31.17%_-65.6%_-31.17%]">
+                            <img alt="" className="block max-w-none size-full" src={img15} />
+                          </div>
+                        </div>
+                      </div>
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1881" style={{ fontVariationSettings: "'wdth' 100" }}>{`Children's Play Area`}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="7941:1882">
+              <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="7941:1883">
+                <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:1884">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col gap-[12px] items-start min-h-px min-w-px relative shrink-0" data-node-id="7941:1885">
+                    <p className="font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[#181a20] text-[32px] w-full whitespace-pre-wrap" data-node-id="7941:1886" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      Location Highlight
+                    </p>
+                  </div>
+                  <div className="bg-[#ef7f1a] box-border content-stretch flex gap-[10px] items-center justify-center overflow-clip px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-name="btn" data-node-id="7941:1887">
+                    <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="7941:1888">
+                      <p className="capitalize font-['Lato:Bold',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[16px] text-white" data-node-id="7941:1889">
+                        Open map
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[395px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1890">
+                  <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none rounded-[10px] size-full" src={imgRectangle625} />
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:1891">
+                <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-col gap-[30px] items-start justify-center p-[30px] relative rounded-[10px] shrink-0 w-full" data-node-id="7941:1892">
+                  <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="7941:1893">
+                    <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1894">
+                      <p className="font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[18px] text-[color:var(--general\/700,#636366)] w-full whitespace-pre-wrap" data-node-id="7941:1895" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Easy access to major roads and transport links
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:1896">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1897">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1898">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1899" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            1.4 km to Global Village
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1900">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1901">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1903">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1904">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1905" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            2.4 km to IMG Worlds of Adventure
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1906">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1907">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1909">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1910">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1911" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            Close proximity to golf clubs including Arabian Ranches Golf Club (5 km)
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1912">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1913">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1915">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1916">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1917" style={{ fontVariationSettings: "'wdth' 100" }}>{`Padel tennis court, table tennis courts, and yoga & meditation areas `}</p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1918">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1919">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1921">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1922">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1923" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            Landscaped gardens, clubhouse, and public transport access
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1924">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1925">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="7941:1927">
+                    <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1928">
+                      <p className="font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[18px] text-[color:var(--general\/700,#636366)] w-full whitespace-pre-wrap" data-node-id="7941:1929" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Schools Nearby
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:1930">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1931">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1932">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1933" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            GEMS Winchester School – 2.7 km, British curriculum
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1934">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1935">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1937">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1938">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1939" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            Victory Heights Primary School – 2.9 km, British curriculum
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1940">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1941">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1943">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1944">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1945" style={{ fontVariationSettings: "'wdth' 100" }}>
+                            Dunecrest American School – 3.6 km, American IB curriculum
+                          </p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1946">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1947">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1949">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[10px] h-[33px] items-center min-h-px min-w-px relative shrink-0" data-node-id="7941:1950">
+                          <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[#575757] text-[18px]" data-node-id="7941:1951" style={{ fontVariationSettings: "'wdth' 100" }}>{` Jumeirah English Speaking School, Arabian Ranches – 4.5 km, British & IB curriculum`}</p>
+                        </div>
+                        <div className="bg-white h-[33px] overflow-clip relative rounded-[6px] shrink-0 w-[35px]" data-name="Link" data-node-id="7941:1952">
+                          <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                            <div className="flex-none scale-y-[-100%]">
+                              <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:1953">
+                                <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0" data-node-id="7941:1955">
+            <div className="content-stretch flex gap-[10px] items-center justify-center relative shrink-0" data-name="Heading 2" data-node-id="7941:1956">
+              <div className="capitalize flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] relative shrink-0 text-[#575757] text-[24px] w-[1705px]" data-node-id="7941:1957" style={{ fontVariationSettings: "'wdth' 100" }}>
+                <p className="leading-[30px] whitespace-pre-wrap">{`This Townhouse in Theon at Athlon offers a perfect blend of modern design, community living, and  lifestyle convenience in one of Dubai’s upcoming residential hotspots.`}</p>
+              </div>
+            </div>
+            <div className="h-[28.295px] relative shrink-0 w-full" data-name="div.elementor-widget-container" data-node-id="7941:1958">
+              <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-0 text-[#575757] text-[20px] top-[13.2px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1959" style={{ fontVariationSettings: "'wdth' 100" }}>
+                <p className="leading-[normal]">{`Contact Prop Shop Global Real Estate today to schedule a viewing or to learn more about this  exciting investment opportunity.`}</p>
+              </div>
+            </div>
+            <div className="h-[66.81px] relative shrink-0 w-full" data-name="div.elementor-element" data-node-id="7941:1960">
+              <div className="absolute bg-[#ef7f1a] border border-[#ef7f1a] border-solid h-[54.81px] left-0 rounded-[12px] top-[12px] w-[188.36px]" data-name="Button" data-node-id="7941:1961">
+                <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[calc(50%+-13.68px)] text-[16px] text-center text-white top-[25.5px] translate-x-[-50%] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1962" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Schedule Now</p>
+                </div>
+                <div className="absolute h-[15.94px] left-[calc(50%+55.68px)] top-[calc(50%+0.44px)] translate-x-[-50%] translate-y-[-50%] w-[15px]" data-name="SVG" data-node-id="7941:1963">
+                  <img alt="" className="block max-w-none size-full" src={imgSvg} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-white box-border content-stretch flex gap-[10px] items-center justify-center px-[42px] py-[24px] relative rounded-[12px] shadow-[0px_0px_4px_0px_rgba(0,0,0,0.25)] shrink-0 w-full" data-name="Section → Main → Section" data-node-id="7941:1965">
+          <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-[1583px]" data-node-id="7941:1966">
+            <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-full" data-node-id="7941:1967">
+              <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[36px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[32px] w-full" data-node-id="7941:1968" style={{ fontVariationSettings: "'wdth' 100" }}>
+                <p className="leading-[normal] whitespace-pre-wrap">Register Your Interest</p>
+              </div>
+              <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-node-id="7941:1969">
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] w-full" data-node-id="7941:1970" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Prop Shop Global</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[20px] items-center relative shrink-0 w-[1586px]" data-node-id="7941:1971">
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[777px]" data-node-id="7941:1972">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:1973" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">First Name</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:1974">
+                  <div className="absolute h-[21px] left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:1975">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#6c757d] text-[14px] top-[10px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1976" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Enter your first name</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[775px]" data-node-id="7941:1977">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:1978" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Last Name</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:1979">
+                  <div className="absolute h-[21px] left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:1980">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#6c757d] text-[14px] top-[10px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1981" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Enter your last name</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[20px] items-start relative shrink-0 w-[1587px]" data-node-id="7941:1982">
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[778px]" data-node-id="7941:1983">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:1984" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Email</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:1985">
+                  <div className="absolute h-[21px] left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:1986">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#6c757d] text-[14px] top-[10px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1987" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Enter your email</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[786px]" data-node-id="7941:1988">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:1989" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Phone</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:1990">
+                  <div className="absolute h-[21px] left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:1991">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#6c757d] text-[14px] top-[10px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:1992" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Enter your phone number</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[20px] items-start relative shrink-0" data-node-id="7941:1993">
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[778px]" data-node-id="7941:1994">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:1995" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Property Interested In</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:1996">
+                  <div className="absolute content-stretch flex items-center justify-between left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:1997">
+                    <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#6c757d] text-[14px] whitespace-nowrap" data-node-id="7941:1998" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Select property you interested in</p>
+                    </div>
+                    <div className="overflow-clip relative shrink-0 size-[16px]" data-name="Icons" data-node-id="7941:1999">
+                      <div className="absolute bottom-[37.5%] left-1/4 right-1/4 top-[37.5%]" data-name="Vector" data-node-id="I7941:1999;7:2369">
+                        <div className="absolute inset-[-18.75%_-9.38%]" style={{ "--stroke-0": "rgba(99, 99, 102, 1)" } as React.CSSProperties}>
+                          <img alt="" className="block max-w-none size-full" src={img16} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[788px]" data-node-id="7941:2000">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:2001" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Budget</p>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid h-[52.59px] relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Input" data-node-id="7941:2002">
+                  <div className="absolute content-stretch flex items-center justify-between left-[20.63px] overflow-clip right-[20.62px] top-[16px]" data-name="div#placeholder" data-node-id="7941:2003">
+                    <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#6c757d] text-[14px] whitespace-nowrap" data-node-id="7941:2004" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">Select you budget</p>
+                    </div>
+                    <div className="overflow-clip relative shrink-0 size-[16px]" data-name="Icons" data-node-id="7941:2005">
+                      <div className="absolute bottom-[37.5%] left-1/4 right-1/4 top-[37.5%]" data-name="Vector" data-node-id="I7941:2005;7:2369">
+                        <div className="absolute inset-[-18.75%_-9.38%]" style={{ "--stroke-0": "rgba(99, 99, 102, 1)" } as React.CSSProperties}>
+                          <img alt="" className="block max-w-none size-full" src={img16} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-[1587px]" data-node-id="7941:2006">
+              <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[26.6px] justify-center leading-[0] relative shrink-0 text-[#181a20] text-[16px] w-full" data-node-id="7941:2007" style={{ fontVariationSettings: "'wdth' 100" }}>
+                <p className="leading-[normal] whitespace-pre-wrap">Message</p>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[148px] overflow-clip relative rounded-[8px] shrink-0 w-full" data-name="Form - Contact form → Textarea" data-node-id="7941:2008">
+                <div className="absolute box-border content-stretch flex gap-[10px] items-center justify-center left-[-0.37px] p-[30px] top-[1.81px]" data-node-id="7941:2009">
+                  <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#6c757d] text-[14px] whitespace-nowrap" data-node-id="7941:2010" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">Write your message</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#181a20] border border-[#181a20] border-solid box-border content-stretch flex gap-[10px] items-center justify-center px-[213px] py-[12px] relative rounded-[8px] shrink-0 w-[1587px]" data-name="Form - Contact form → Button" data-node-id="7941:2011">
+              <div className="flex flex-col font-['Poppins:SemiBold',sans-serif] h-[28.5px] justify-center leading-[0] not-italic relative shrink-0 text-[15px] text-center text-white w-[55.309px]" data-node-id="7941:2012">
+                <p className="leading-[28.5px] whitespace-pre-wrap">Submit</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[120px] items-center relative shrink-0 w-full" data-name="Blog" data-node-id="7941:2013">
+        <div className="bg-[#181a20] box-border content-stretch flex flex-col gap-[60px] items-start px-[165px] py-[60px] relative shrink-0 w-[1920px]" data-name="Footer" data-node-id="7941:2014">
+          <div className="content-stretch flex gap-[30px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:2015">
+            <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[695px]" data-node-id="7941:2016">
+              <div className="h-[42px] relative shrink-0 w-[265px]" data-name="image 2" data-node-id="7941:2017">
+                <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage2} />
+              </div>
+              <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:2018">
+                <div className="content-stretch flex gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:2019">
+                  <div className="h-[20.667px] relative shrink-0 w-[17.012px]" data-name="Group" data-node-id="7941:2020">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup} />
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-start min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2023">
+                    <p className="font-['Lato:Regular',sans-serif] leading-[1.6] not-italic relative shrink-0 text-[16px] text-white w-[622px] whitespace-pre-wrap" data-node-id="7941:2024">{`Unit Number: 311, 3rd Floor, Burlington Tower, Business Bay, Dubai, UAE. `}</p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:2025">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Component 4" data-node-id="7941:2026">
+                    <div className="absolute inset-[5.21%_5.2%_17.71%_13.54%]" data-name="Vector" data-node-id="I7941:2026;1882:12663">
+                      <div className="absolute inset-0" style={{ "--fill-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img17} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex-[1_0_0] grid-cols-[max-content] grid-rows-[max-content] inline-grid justify-items-start leading-[0] min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2027">
+                    <p className="col-[1] font-['Lato:Regular',sans-serif] leading-[1.6] ml-0 mt-0 not-italic relative row-[1] text-[16px] text-white w-[663px] whitespace-pre-wrap" data-node-id="7941:2028">
+                      +971 42 51 5556
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[12px] items-center relative shrink-0 w-full" data-node-id="7941:2029">
+                  <div className="relative shrink-0 size-[20px]" data-name="fluent:mail-24-regular" data-node-id="7941:2030">
+                    <img alt="" className="block max-w-none size-full" src={imgFluentMail24Regular} />
+                  </div>
+                  <div className="flex-[1_0_0] grid-cols-[max-content] grid-rows-[max-content] inline-grid justify-items-start leading-[0] min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2032">
+                    <p className="col-[1] font-['Lato:Regular',sans-serif] leading-[1.6] ml-0 mt-0 not-italic relative row-[1] text-[16px] text-white w-[663px] whitespace-pre-wrap" data-node-id="7941:2033">
+                      info@propshopglobal.org
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[15px] items-center relative shrink-0" data-node-id="7941:2039">
+                <div className="bg-[var(--general\/100,#f2f2f2)] content-stretch flex gap-[10px] items-center justify-center relative rounded-[10px] shrink-0 size-[32px]" data-name="Icon" data-node-id="7941:2040">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icons" data-node-id="7941:2041">
+                    <div className="absolute inset-[8.33%_10.44%_8.33%_8.33%]" data-name="Group" data-node-id="7941:2042">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/facebook/White" data-node-id="7941:2044">
+                  <div className="absolute left-1/2 size-[32px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-node-id="7941:2045">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup3693} />
+                  </div>
+                </div>
+                <div className="bg-[var(--general\/100,#f2f2f2)] content-stretch flex gap-[10px] items-center justify-center relative rounded-[10px] shrink-0 size-[32px]" data-name="Icon" data-node-id="7941:2048">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icons" data-node-id="7941:2049">
+                    <div className="absolute inset-[8.33%_8.35%_8.33%_8.33%]" data-name="Group" data-node-id="7941:2050">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup2} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/instagram/White" data-node-id="7941:2054">
+                  <div className="absolute contents left-[4px] top-[4px]" data-node-id="7941:2055">
+                    <div className="absolute bg-white left-[4px] rounded-[10px] size-[32px] top-[4px]" data-node-id="7941:2056" />
+                    <div className="absolute left-[7.5px] size-[26px] top-[7.12px]" data-name="Whatsapp" data-node-id="7941:2057">
+                      <img alt="" className="block max-w-none size-full" src={imgWhatsapp} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/instagram/White" data-node-id="7941:2062">
+                  <div className="absolute left-1/2 size-[32px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-node-id="7941:2063">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup3702} />
+                  </div>
+                </div>
+                <div className="flex flex-row items-center self-stretch">
+                  <div className="h-full overflow-clip relative shrink-0 w-[40px]" data-name="Iconsax/Bulk/youtube/White" data-node-id="7941:2066">
+                    <div className="absolute bg-white left-[4px] rounded-[10px] size-[32px] top-[4px]" data-node-id="7941:2067" />
+                    <div className="absolute h-[14px] left-1/2 top-1/2 translate-x-[-50%] translate-y-[-50%] w-[20px]" data-name="Vector" data-node-id="7941:2068">
+                      <img alt="" className="block max-w-none size-full" src={imgVector} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[52px] items-start justify-center relative shrink-0 w-[850px]" data-node-id="7941:2069">
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[143px]" data-node-id="7941:2070">
+                <p className="capitalize font-['Lato:Bold',sans-serif] leading-[1.25] not-italic relative shrink-0 text-[22px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2071">
+                  explore
+                </p>
+                <div className="content-stretch flex flex-col font-['Lato:Regular',sans-serif] gap-[16px] items-start leading-[1.6] not-italic relative shrink-0 text-[16px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2072">
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2073">
+                    Home
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2074">
+                    Projects
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2075">
+                    Blog
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2076">
+                    About Us
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2077">
+                    Contact Us
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 text-center text-white w-[158.922px]" data-name="Menu" data-node-id="7941:2078">
+                <p className="font-['Roboto:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[20px]" data-node-id="7941:2079" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Services
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2080" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Buy a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2081" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Sell a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2082" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Rent a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2083" style={{ fontVariationSettings: "'wdth' 100" }}>{`Terms & Conditions`}</p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2084" style={{ fontVariationSettings: "'wdth' 100" }}>{`Privacy & Policy`}</p>
+              </div>
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[155px]" data-node-id="7941:2085">
+                <p className="capitalize font-['Lato:Bold',sans-serif] leading-[1.25] not-italic relative shrink-0 text-[22px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2086">{`T&C`}</p>
+                <div className="content-stretch flex flex-col gap-[16px] items-start leading-[1.6] relative shrink-0 text-[16px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2087">
+                  <p className="font-['Lato:Regular',sans-serif] not-italic relative shrink-0 w-full" data-node-id="7941:2088">
+                    Property on sale
+                  </p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2089" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`About Us `}</p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2090" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`Our Team `}</p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2091" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`Terms of use `}</p>
+                  <p className="font-['Lato:Regular',sans-serif] not-italic relative shrink-0 w-full" data-node-id="7941:2092">
+                    Privacy Policy
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: h1: Font(family: "Roboto", style: Bold, size: 40, weight: 700, lineHeight: 100, letterSpacing: 0), p2 - regular: Font(family: "Roboto", style: Regular, size: 16, weight: 400, lineHeight: 100, letterSpacing: 0), Primary: #EF7F1A, Grey6 Dark: #1C1C1E, h3: Font(family: "Roboto", style: SemiBold, size: 32, weight: 600, lineHeight: 100, letterSpacing: 0), Placeholder: #575757, P1 - regular: Font(family: "Roboto", style: Regular, size: 18, weight: 400, lineHeight: 100, letterSpacing: 0), Icons: #181A20, Grey2 Dark: #636366, Neutral / 1: #FFFFFF, For Bg Dark: #FFFFFF, a: Font(family: "Lato", style: Bold, size: 16, weight: 700, lineHeight: 1.5, letterSpacing: 0), P1 - Semibold: Font(family: "Roboto", style: SemiBold, size: 18, weight: 600, lineHeight: 100, letterSpacing: 0), p - Medium: Font(family: "Roboto", style: Medium, size: 20, weight: 500, lineHeight: 100, letterSpacing: 0), P2 - Semibold: Font(family: "Roboto", style: SemiBold, size: 16, weight: 600, lineHeight: 100, letterSpacing: 0), p3 - regular: Font(family: "Roboto", style: Regular, size: 14, weight: 400, lineHeight: 100, letterSpacing: 0), p: Font(family: "Lato", style: Regular, size: 16, weight: 400, lineHeight: 1.600000023841858, letterSpacing: 0), h4: Font(family: "Lato", style: Bold, size: 22, weight: 700, lineHeight: 1.25, letterSpacing: 0).
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>

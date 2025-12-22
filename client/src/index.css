@@ -1,0 +1,287 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --a-font-family: "Lato", Helvetica;
+  --a-font-size: 16px;
+  --a-font-style: normal;
+  --a-font-weight: 700;
+  --a-letter-spacing: 0px;
+  --a-line-height: 150%;
+  --app-primary: rgba(239, 127, 26, 1);
+  --EF-1: 0px 1px 10px 0px rgba(0, 0, 0, 0.1);
+  --for-bg-dark: rgba(255, 255, 255, 1);
+  --graysgray-6: rgba(242, 242, 247, 1);
+  --h-1-font-family: "Roboto", Helvetica;
+  --h-1-font-size: 40px;
+  --h-1-font-style: normal;
+  --h-1-font-weight: 700;
+  --h-1-letter-spacing: 0px;
+  --h-1-line-height: normal;
+  --h-3-font-family: "Lato", Helvetica;
+  --h-3-font-size: 28px;
+  --h-3-font-style: normal;
+  --h-3-font-weight: 700;
+  --h-3-letter-spacing: 0px;
+  --h-3-line-height: 125%;
+  --h-4-font-family: "Lato", Helvetica;
+  --h-4-font-size: 22px;
+  --h-4-font-style: normal;
+  --h-4-font-weight: 700;
+  --h-4-letter-spacing: 0px;
+  --h-4-line-height: 125%;
+  --icons: rgba(24, 26, 32, 1);
+  --image-placeholder: rgba(227, 227, 227, 1);
+  --p-font-family: "Lato", Helvetica;
+  --p-font-size: 16px;
+  --p-font-style: normal;
+  --p-font-weight: 400;
+  --p-letter-spacing: 0px;
+  --p-line-height: 160%;
+  --p-medium-font-family: "Roboto", Helvetica;
+  --p-medium-font-size: 20px;
+  --p-medium-font-style: normal;
+  --p-medium-font-weight: 500;
+  --p-medium-letter-spacing: 0px;
+  --p-medium-line-height: normal;
+  --p1-regular-font-family: "Roboto", Helvetica;
+  --p1-regular-font-size: 18px;
+  --p1-regular-font-style: normal;
+  --p1-regular-font-weight: 400;
+  --p1-regular-letter-spacing: 0px;
+  --p1-regular-line-height: normal;
+  --p1-semibold-font-family: "Roboto", Helvetica;
+  --p1-semibold-font-size: 18px;
+  --p1-semibold-font-style: normal;
+  --p1-semibold-font-weight: 600;
+  --p1-semibold-letter-spacing: 0px;
+  --p1-semibold-line-height: normal;
+  --p2-regular-font-family: "Roboto", Helvetica;
+  --p2-regular-font-size: 16px;
+  --p2-regular-font-style: normal;
+  --p2-regular-font-weight: 400;
+  --p2-regular-letter-spacing: 0px;
+  --p2-regular-line-height: normal;
+  --p2-semibold-font-family: "Roboto", Helvetica;
+  --p2-semibold-font-size: 16px;
+  --p2-semibold-font-style: normal;
+  --p2-semibold-font-weight: 600;
+  --p2-semibold-letter-spacing: 0px;
+  --p2-semibold-line-height: normal;
+  --p3-regular-font-family: "Roboto", Helvetica;
+  --p3-regular-font-size: 14px;
+  --p3-regular-font-style: normal;
+  --p3-regular-font-weight: 400;
+  --p3-regular-letter-spacing: 0px;
+  --p3-regular-line-height: normal;
+  --p3-semibold-font-family: "Roboto", Helvetica;
+  --p3-semibold-font-size: 14px;
+  --p3-semibold-font-style: normal;
+  --p3-semibold-font-weight: 600;
+  --p3-semibold-letter-spacing: 0px;
+  --p3-semibold-line-height: normal;
+  --p4-semibold-font-family: "Roboto", Helvetica;
+  --p4-semibold-font-size: 12px;
+  --p4-semibold-font-style: normal;
+  --p4-semibold-font-weight: 600;
+  --p4-semibold-letter-spacing: 0px;
+  --p4-semibold-line-height: normal;
+  --placeholder: rgba(87, 87, 87, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+
+:root {
+  --animate-spin: spin 1s linear infinite;
+}
+
+.animate-fade-in {
+  animation: fade-in 1s var(--animation-delay, 0s) ease forwards;
+}
+
+.animate-fade-up {
+  animation: fade-up 1s var(--animation-delay, 0s) ease forwards;
+}
+
+.animate-marquee {
+  animation: marquee var(--duration) infinite linear;
+}
+
+.animate-marquee-vertical {
+  animation: marquee-vertical var(--duration) linear infinite;
+}
+
+.animate-shimmer {
+  animation: shimmer 8s infinite;
+}
+
+.animate-spin {
+  animation: var(--animate-spin);
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+@keyframes image-glow {
+  0% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(0.74, 0.25, 0.76, 1);
+  }
+
+  10% {
+    opacity: 0.7;
+    animation-timing-function: cubic-bezier(0.12, 0.01, 0.08, 0.99);
+  }
+
+  to {
+    opacity: 0.4;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes shimmer {
+  0%,
+  90%,
+  to {
+    background-position: calc(-100% - var(--shimmer-width)) 0;
+  }
+
+  30%,
+  60% {
+    background-position: calc(100% + var(--shimmer-width)) 0;
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0);
+  }
+
+  to {
+    transform: translateX(calc(-100% - var(--gap)));
+  }
+}
+
+@keyframes marquee-vertical {
+  0% {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(calc(-100% - var(--gap)));
+  }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 47.4% 11.2%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+
+    --card: transparent;
+    --card-foreground: 222.2 47.4% 11.2%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 210 40% 98%;
+
+    --ring: 215 20.2% 65.1%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 224 71% 4%;
+    --foreground: 213 31% 91%;
+
+    --muted: 223 47% 11%;
+    --muted-foreground: 215.4 16.3% 56.9%;
+
+    --accent: 216 34% 17%;
+    --accent-foreground: 210 40% 98%;
+
+    --popover: 224 71% 4%;
+    --popover-foreground: 215 20.2% 65.1%;
+
+    --border: 216 34% 17%;
+    --input: 216 34% 17%;
+
+    --card: transparent;
+    --card-foreground: 213 31% 91%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 1.2%;
+
+    --secondary: 222.2 47.4% 11.2%;
+    --secondary-foreground: 210 40% 98%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --ring: 216 34% 17%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}

@@ -1,0 +1,1356 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const imgImage2 = "https://www.figma.com/api/mcp/asset/971f90a7-0789-4806-a735-25ffbd700d9a";
+const imgP2570X370Jpg = "https://www.figma.com/api/mcp/asset/0147433f-6c1d-4b2f-a953-99e35201c346";
+const imgP6570X370Jpg = "https://www.figma.com/api/mcp/asset/f670bec7-0e06-4f69-8425-7fdf510e4a1a";
+const imgP9570X370Jpg = "https://www.figma.com/api/mcp/asset/34d05d65-0b7c-4a46-bd1e-78ff296b9281";
+const imgP16570X370Jpg = "https://www.figma.com/api/mcp/asset/4d171d76-f7bf-4315-aefe-392cb9df0bcb";
+const imgP2570X370Jpg1 = "https://www.figma.com/api/mcp/asset/e3f963be-e6c0-43c9-923a-d788081cc41c";
+const imgP6570X370Jpg1 = "https://www.figma.com/api/mcp/asset/f3ef231b-e5f9-4950-b1d5-23c2692e1112";
+const imgP9570X370Jpg1 = "https://www.figma.com/api/mcp/asset/e1d52805-389d-4d5a-b127-779b14f48efe";
+const imgP16570X370Jpg1 = "https://www.figma.com/api/mcp/asset/a154103a-724b-484f-8478-68b469df1418";
+const imgImage = "https://www.figma.com/api/mcp/asset/50990015-3367-4c19-8df2-a8023e6eef3a";
+const imgImage4 = "https://www.figma.com/api/mcp/asset/cc8a6a42-ccbb-42c4-8b8f-8d5a6456a450";
+const imgImage1 = "https://www.figma.com/api/mcp/asset/1b137f30-4561-4683-abc7-f00e8f11b283";
+const imgImage5 = "https://www.figma.com/api/mcp/asset/889bc0e3-a074-4d0a-8fb5-bd3b407cbe1d";
+const imgImage6 = "https://www.figma.com/api/mcp/asset/c069faed-672e-45bf-9b13-f69f92af7e07";
+const imgImage7 = "https://www.figma.com/api/mcp/asset/3f2e544c-db61-49b0-b7bd-871c63812613";
+const imgOutline = "https://www.figma.com/api/mcp/asset/ca516fab-a8a2-4571-b1b7-0abea494a435";
+const imgGroup = "https://www.figma.com/api/mcp/asset/1b9e8ccb-ef77-4eab-9fb6-4169c4ef3560";
+const imgOutline1 = "https://www.figma.com/api/mcp/asset/3ac0aaca-21e1-4436-b5c6-f333eec473c8";
+const imgIcon = "https://www.figma.com/api/mcp/asset/f4f3a548-94a6-4119-88d4-d2d1cf95eed5";
+const imgIcon1 = "https://www.figma.com/api/mcp/asset/bfbf941a-0456-4fec-abee-62b6b2866505";
+const imgIcon2 = "https://www.figma.com/api/mcp/asset/41f52c83-c112-4b69-994e-bd875caa7109";
+const imgIcon3 = "https://www.figma.com/api/mcp/asset/58be6252-2f66-4ee9-b2df-4f1ed1ddcf8d";
+const imgIcon4 = "https://www.figma.com/api/mcp/asset/b2b12e4d-7ea9-40dc-b3fb-a642d34e81be";
+const imgIcon5 = "https://www.figma.com/api/mcp/asset/95c05ff2-9798-400d-be82-46c9fccc7177";
+const imgIcon6 = "https://www.figma.com/api/mcp/asset/baa3627f-0bc8-4752-a23d-d354ee5d48cc";
+const imgIcon7 = "https://www.figma.com/api/mcp/asset/bca10ada-c0a8-4b6e-ac87-c7fb6fba9237";
+const imgIcon8 = "https://www.figma.com/api/mcp/asset/9822adbe-61ff-4238-8f30-7cc18fcfd8c4";
+const imgIcon9 = "https://www.figma.com/api/mcp/asset/412d8e00-7b38-43ea-b624-eaf3c864af6f";
+const imgIcon10 = "https://www.figma.com/api/mcp/asset/f5d75ef8-e7f3-48bc-900b-ac4fa91346e7";
+const imgGroup1 = "https://www.figma.com/api/mcp/asset/457ef303-de01-48dd-98cc-81daa177f71d";
+const img = "https://www.figma.com/api/mcp/asset/0a25277b-f327-4683-b8e4-fd59f2bd1015";
+const imgFluentMail24Regular = "https://www.figma.com/api/mcp/asset/eeaa5735-61ad-4896-b96e-3f1513ae0503";
+const imgGroup2 = "https://www.figma.com/api/mcp/asset/f51c01e1-b605-4746-8b78-60b98e1ec29b";
+const imgGroup3693 = "https://www.figma.com/api/mcp/asset/6e04182b-9e5c-45b4-8b2f-469e5cab73d9";
+const imgGroup3 = "https://www.figma.com/api/mcp/asset/a7c9cf30-1a2b-46e2-8b81-136b52eeeba5";
+const imgWhatsapp = "https://www.figma.com/api/mcp/asset/e5c3b540-bdf2-46c9-a86c-a0ccfd0b61d0";
+const imgGroup3702 = "https://www.figma.com/api/mcp/asset/d0ce5bba-3371-4f72-aaa3-4033dd8b581e";
+const imgVector = "https://www.figma.com/api/mcp/asset/087e200a-5e15-406d-a8de-712aa607c447";
+
+export default function Projects() {
+  return (
+    <a className="bg-white box-border content-stretch cursor-pointer flex flex-col items-center justify-center p-0 relative size-full" data-name="Projects" data-node-id="7941:2106">
+      <div className="bg-[#1c1c1b] box-border content-stretch flex items-center justify-between px-[110px] py-[32px] relative shrink-0 w-full" data-name="Section" data-node-id="7941:2107">
+        <div className="h-[42px] relative shrink-0 w-[265px]" data-name="image 2" data-node-id="7941:2108">
+          <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage2} />
+        </div>
+        <div className="h-[45px] relative shrink-0 w-[725px]" data-name="div.elementor-element" data-node-id="7941:2109">
+          <div className="absolute bg-white inset-[99.54%_64.11%_-3.99%_23.86%]" data-name="Navigation → List → Item" data-node-id="7941:2110" />
+          <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[44.58px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2111" style={{ fontVariationSettings: "'wdth' 100" }}>
+            <p className="leading-[normal]">{`Home `}</p>
+          </div>
+          <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[187px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2112" style={{ fontVariationSettings: "'wdth' 100" }}>
+            <p className="leading-[normal]">Projects</p>
+          </div>
+          <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[346px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2113" style={{ fontVariationSettings: "'wdth' 100" }}>
+            <p className="leading-[normal]">{`Blog `}</p>
+          </div>
+          <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[478px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2114" style={{ fontVariationSettings: "'wdth' 100" }}>
+            <p className="leading-[normal]">About Us</p>
+          </div>
+          <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[643px] text-[16px] text-white top-[22.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2115" style={{ fontVariationSettings: "'wdth' 100" }}>
+            <p className="leading-[normal]">Contact Us</p>
+          </div>
+        </div>
+      </div>
+      <div className="box-border content-stretch flex flex-col gap-[60px] items-start px-0 py-[60px] relative shrink-0 w-[1700px]" data-name="Listing" data-node-id="7941:2116">
+        <div className="content-stretch flex flex-col gap-[65px] items-center relative shrink-0 w-full" data-node-id="7941:2117">
+          <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-full" data-name="Top heading" data-node-id="7941:2118">
+            <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="7941:2119">
+              <div className="content-stretch flex flex-col gap-[12px] items-start leading-[0] relative shrink-0 w-[1685px]" data-name="div.inner-left" data-node-id="7941:2120">
+                <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center relative shrink-0 text-[#181a20] text-[36px] whitespace-nowrap" data-node-id="7941:2121" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Our Exclusive Listings</p>
+                </div>
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center relative shrink-0 text-[#717171] text-[18px] w-[1685px]" data-node-id="7941:2122" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">Be the first to invest in our handpicked selection of off-plan properties. Benefit from pre-launch prices and priority access to the finest residences.</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:2123">
+              <div className="border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex h-[48px] items-center justify-between overflow-clip relative rounded-[10px] shrink-0 w-[400px]" data-node-id="7941:2124">
+                <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-[1_0_0] gap-[12px] h-full items-center min-h-px min-w-px px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2125">
+                  <div className="flex flex-[1_0_0] flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] min-h-px min-w-px relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)]" data-node-id="7941:2126" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal] whitespace-pre-wrap">What are looking for</p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-[1_0_0] gap-[12px] items-center min-h-px min-w-px px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2129">
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)] whitespace-nowrap" data-node-id="7941:2130" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Status</p>
+                </div>
+                <div className="relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2131">
+                  <img alt="" className="block max-w-none size-full" src={imgOutline} />
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-[1_0_0] gap-[12px] items-center min-h-px min-w-px px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2133">
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)] whitespace-nowrap" data-node-id="7941:2134" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Type</p>
+                </div>
+                <div className="relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2135">
+                  <img alt="" className="block max-w-none size-full" src={imgOutline} />
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-[1_0_0] gap-[12px] items-center min-h-px min-w-px px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2137">
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)] whitespace-nowrap" data-node-id="7941:2138" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Beds</p>
+                </div>
+                <div className="relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2139">
+                  <img alt="" className="block max-w-none size-full" src={imgOutline} />
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex flex-[1_0_0] gap-[12px] items-center min-h-px min-w-px px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2141">
+                <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[16px] text-[color:var(--general\/700,#636366)] whitespace-nowrap" data-node-id="7941:2142" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Baths</p>
+                </div>
+                <div className="relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2143">
+                  <img alt="" className="block max-w-none size-full" src={imgOutline} />
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex gap-[12px] items-center px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2145">
+                <div className="overflow-clip relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2147">
+                  <div className="absolute bottom-[16.91%] left-[20.83%] right-1/4 top-[20.83%]" data-name="Group" data-node-id="7941:2148">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup} />
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[var(--general\/300,#e0e0e0)] border-solid box-border content-stretch flex gap-[12px] items-center px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2150">
+                <div className="relative shrink-0 size-[24px]" data-name="Outline" data-node-id="7941:2152">
+                  <img alt="" className="block max-w-none size-full" src={imgOutline1} />
+                </div>
+              </div>
+              <div className="bg-[#ef7f1a] box-border content-stretch flex gap-[10px] items-center justify-center overflow-clip px-[20px] py-[12px] relative rounded-[10px] shrink-0 w-[120px]" data-node-id="7941:2154">
+                <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="7941:2155">
+                  <p className="font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[16px] text-white" data-node-id="7941:2156" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    Search
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[40px] items-center relative shrink-0 w-full" data-node-id="7941:2157">
+            <div className="content-stretch flex gap-[89px] items-center relative shrink-0 w-full" data-node-id="7941:2158">
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2159">
+                <div className="absolute h-[239px] left-0 overflow-clip right-[-1px] top-[0.02px]" data-name="Link" data-node-id="7941:2160">
+                  <div className="absolute h-[239px] left-0 top-0 w-[356px]" data-name="p2-570x370.jpg" data-node-id="7941:2161">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP2570X370Jpg} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] bottom-[0.06%] left-0 opacity-10 right-[0.28%] top-[-0.01%]" data-name="::before" data-node-id="7941:2162" />
+                </div>
+                <div className="absolute bg-[#ef7f1a] h-[30px] left-[20px] rounded-[6px] top-[calc(50%+-168.63px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2163">
+                  <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                    <div className="flex-none scale-y-[-100%]">
+                      <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2164">
+                        <img alt="" className="block max-w-none size-full" src={imgIcon} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2166" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[180px] w-[127px]" data-name="div.property-price" data-node-id="7941:2167">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[17px] text-[#181a20] text-[14px] top-[19.25px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2168" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">4,200,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2169" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">SOUTH BAY 4</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#575757] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2170" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`South Bay 4,  South Bay,  Dubai South......`}</p>
+                </div>
+                <div className="absolute content-stretch flex gap-[12px] items-center left-[20px] top-[316.5px]" data-node-id="7941:2171">
+                  <div className="flex items-center justify-center relative shrink-0">
+                    <div className="flex-none scale-y-[-100%]">
+                      <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2172">
+                        <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2174" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">4 Beds</p>
+                  </div>
+                  <div className="flex items-center justify-center relative shrink-0">
+                    <div className="flex-none scale-y-[-100%]">
+                      <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2175">
+                        <img alt="" className="block max-w-none size-full" src={imgIcon2} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2177" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">6 Baths</p>
+                  </div>
+                  <div className="flex items-center justify-center relative shrink-0">
+                    <div className="flex-none scale-y-[-100%]">
+                      <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2178">
+                        <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2180" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">3565 sqft</p>
+                  </div>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2181">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2182">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-0 text-[#181a20] text-[14px] top-[11.5px] translate-y-[-50%] w-[51.236px]" data-node-id="7941:2183" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2184">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2185">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2186">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2188">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2189">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2191">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2192">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2194">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2195">
+                  <div className="absolute h-[239px] left-0 top-[0.02px] w-[356px]" data-name="p6-570x370.jpg" data-node-id="7941:2196">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP6570X370Jpg} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2197" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2198">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2199">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2201" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[180px] w-[127px]" data-name="div.property-price" data-node-id="7941:2202">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[17px] text-[#181a20] text-[14px] top-[18.25px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2203" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">2,899,999 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2204" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">COVE-II</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#575757] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2205" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`The Cove II Building 9,  The Cove ll,  Dubai....`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2206">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2208" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">2 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[105.75px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2209">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[128.23px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2211" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">2 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[195.97px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2212">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[218.45px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2214" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">1,111 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2215">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2216">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-0 text-[#181a20] text-[14px] top-[11.5px] translate-y-[-50%] w-[51.236px]" data-node-id="7941:2217" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2218">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2219">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2220">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2222">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2223">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2225">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2226">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2228">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2229">
+                  <div className="absolute h-[239px] left-0 top-[0.02px] w-[356px]" data-name="p9-570x370.jpg" data-node-id="7941:2230">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP9570X370Jpg} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2231" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2232">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2233">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2235" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[180px] w-[127px]" data-name="div.property-price" data-node-id="7941:2236">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[17px] text-[#181a20] text-[14px] top-[18.25px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2237" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">1,250,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2238" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">DIAMONDZ BY DANUBE</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#575757] text-[16px] top-[293.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2239" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`Diamondz By Danube,  Jumeirah Lake ....`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2240">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2242" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Studio</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[109.89px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2243">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[132.38px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2245" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">1 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[199.92px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2246">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[222.41px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2248" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">419 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2249">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2250">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-0 text-[#181a20] text-[14px] top-[11.5px] translate-y-[-50%] w-[51.236px]" data-node-id="7941:2251" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2252">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2253">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2254">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2256">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2257">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2259">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2260">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2262">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2263">
+                  <div className="absolute h-[238.88px] left-0 top-0 w-[368px]" data-name="p16-570x370.jpg" data-node-id="7941:2264">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute left-[-2.82%] max-w-none size-full top-0" src={imgP16570X370Jpg} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2265" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2266">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2267">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2269" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[180px] w-[127px]" data-name="div.property-price" data-node-id="7941:2270">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[17px] text-[#181a20] text-[14px] top-[18.25px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2271" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[normal]">1,300,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2272" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">STELLA RESIDENCES</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#575757] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2273" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`The Stella Residences,  Al Furjan,  Dubai`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2274">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2276" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">1 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[105.75px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2277">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[128.23px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2279" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">2 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[195.78px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2280">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[218.27px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2282" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">902 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2283">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2284">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-0 text-[#181a20] text-[14px] top-[11.5px] translate-y-[-50%] w-[51.236px]" data-node-id="7941:2285" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2286">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2287">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2288">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2290">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2291">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2293">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2294">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[89px] items-center relative shrink-0 w-full" data-node-id="7941:2296">
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2297">
+                <div className="absolute h-[239px] left-0 overflow-clip right-[-1px] top-[0.02px]" data-name="Link" data-node-id="7941:2298">
+                  <div className="absolute h-[239px] left-0 top-0 w-[356px]" data-name="p2-570x370.jpg" data-node-id="7941:2299">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP2570X370Jpg1} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] bottom-[0.06%] left-0 opacity-10 right-[0.28%] top-[-0.01%]" data-name="::before" data-node-id="7941:2300" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.52px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2301">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2302">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon10} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2304" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[179.75px] w-[126px]" data-name="div.property-price" data-node-id="7941:2305">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[13px] text-[#181a20] text-[15px] top-[19.75px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2306" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[28.5px]">3,400,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2307" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">GLADE, HAVEN BY ALDAR</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#717171] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2308" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`Glade,  Haven By Aldar,  Dubai Land,  Dubai`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2309">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[43.805px]" data-node-id="7941:2311" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">3 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[105.83px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2312">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[128.31px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[47.895px]" data-node-id="7941:2314" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">4 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[195.86px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2315">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[218.34px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2317" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">2281 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2318">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2319">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#181a20] text-[16px] top-[11.65px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2320" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2321">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2322">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2323">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2325">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2326">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2328">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2329">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2331">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2332">
+                  <div className="absolute h-[239px] left-0 top-[0.02px] w-[356px]" data-name="p6-570x370.jpg" data-node-id="7941:2333">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP6570X370Jpg1} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2334" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2335">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2336">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon10} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2338" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[179.75px] w-[126px]" data-name="div.property-price" data-node-id="7941:2339">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[13px] text-[#181a20] text-[15px] top-[19px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2340" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[28.5px]">1,100,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2341" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">SAMANA IBIZA</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#717171] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2342" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`Samana Ibiza,  Dubai Land Residence ......`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2343">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[43.734px]" data-node-id="7941:2345" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">1 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[105.75px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2346">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[128.23px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[48.076px]" data-node-id="7941:2348" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">2 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[195.97px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2349">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[218.45px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[53.324px]" data-node-id="7941:2351" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">859 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2352">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2353">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#181a20] text-[16px] top-[11.65px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2354" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">For Sale</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2355">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2356">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2357">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2359">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2360">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2362">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2363">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2365">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2366">
+                  <div className="absolute h-[239px] left-0 top-[0.02px] w-[356px]" data-name="p9-570x370.jpg" data-node-id="7941:2367">
+                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                      <img alt="" className="absolute h-[99.95%] left-0 max-w-none top-[-0.01%] w-[103.37%]" src={imgP9570X370Jpg1} />
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2368" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2369">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2370">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon10} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2372" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[179.75px] w-[126px]" data-name="div.property-price" data-node-id="7941:2373">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[13px] text-[#181a20] text-[15px] top-[19px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2374" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[28.5px]">4,500,000 AED</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2375" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">THEON AT ATHLON</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#717171] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2376" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">{`Theon at Athlon,  Athlon by Aldar,  Dubai.....`}</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2377">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2379" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">4 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[109.89px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2380">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[132.38px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[47.895px]" data-node-id="7941:2382" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">5 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[199.92px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2383">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[222.41px] text-[#181a20] text-[14px] top-[324.71px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2385" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">3118 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2386">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2387">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#181a20] text-[16px] top-[11.65px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2388" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">For Buy</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2389">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2390">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2391">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2393">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2394">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2396">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2397">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#e9e9e9] border-solid h-[409.25px] overflow-clip relative rounded-[12px] shrink-0 w-[358px]" data-name="Tabpanel → Article" data-node-id="7941:2399">
+                <div className="absolute h-[238.88px] left-0 overflow-clip right-0 top-0" data-name="Link" data-node-id="7941:2400">
+                  <div className="absolute h-[238.88px] left-0 top-0 w-[368px]" data-name="p16-570x370.jpg" data-node-id="7941:2401">
+                    <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgP16570X370Jpg1} />
+                  </div>
+                  <div className="absolute bg-[#181a20] inset-0 opacity-10" data-name="::before" data-node-id="7941:2402" />
+                  <div className="absolute bg-[#ef7f1a] h-[30px] left-[21px] rounded-[6px] top-[calc(50%+-83.44px)] translate-y-[-50%] w-[166px]" data-name="span.featured-property" data-node-id="7941:2403">
+                    <div className="absolute flex items-center justify-center left-[12px] size-[14px] top-[7.67px]">
+                      <div className="flex-none scale-y-[-100%]">
+                        <div className="relative size-[14px]" data-name="Icon" data-node-id="7941:2404">
+                          <img alt="" className="block max-w-none size-full" src={imgIcon10} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[30px] text-[12px] text-white top-[14.5px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2406" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">OFF PLAN PROPERTIES</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bg-white h-[39px] left-[20px] rounded-[6px] top-[179.75px] w-[176px]" data-name="div.property-price" data-node-id="7941:2407">
+                  <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] left-[17px] text-[#181a20] text-[15px] top-[18.75px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2408" style={{ fontVariationSettings: "'wdth' 100" }}>
+                    <p className="leading-[28.5px]">{`100,000 AED / Yearly `}</p>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Medium',sans-serif] font-medium justify-center leading-[0] left-[20px] text-[#181a20] text-[20px] top-[267.87px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2409" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">JUMAIRAH BAY TOWER X1 ....</p>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-[20px] text-[#717171] text-[16px] top-[293.52px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2410" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal]">Jumeirah, Bay Tower</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[20px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2411">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[42.48px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[43.602px]" data-node-id="7941:2413" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">1 Beds</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[105.75px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2414">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[128.23px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[47.895px]" data-node-id="7941:2416" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">2 Baths</p>
+                </div>
+                <div className="absolute flex items-center justify-center left-[195.78px] size-[16px] top-[316.5px]">
+                  <div className="flex-none scale-y-[-100%]">
+                    <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2417">
+                      <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal h-[24.7px] justify-center leading-[0] left-[218.27px] text-[#181a20] text-[14px] top-[325.06px] translate-y-[-50%] w-[52.569px]" data-node-id="7941:2419" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  <p className="leading-[normal] whitespace-pre-wrap">300 sqft</p>
+                </div>
+                <div className="absolute border-[#e9e9e9] border-b-0 border-l-0 border-r-0 border-solid border-t h-[56px] left-[20px] right-[20px] top-[351.25px]" data-name="div.property-metas-bottom" data-node-id="7941:2420">
+                  <div className="absolute h-[25.54px] left-0 top-[calc(50%+-0.43px)] translate-y-[-50%] w-[50.88px]" data-name="div.ali-left" data-node-id="7941:2421">
+                    <div className="absolute flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] left-0 text-[#181a20] text-[16px] top-[11.65px] translate-y-[-50%] whitespace-nowrap" data-node-id="7941:2422" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">For Rent</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[35px] right-0 top-1/2 translate-y-[-50%] w-[113px]" data-name="div.ms-auto" data-node-id="7941:2423">
+                    <div className="absolute bg-white left-0 overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2424">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2425">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[39px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2427">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2428">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute bg-white left-[78px] overflow-clip rounded-[6px] size-[35px] top-1/2 translate-y-[-50%]" data-name="Link" data-node-id="7941:2430">
+                      <div className="absolute flex items-center justify-center left-[10px] size-[15px] top-[9px]">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[15px]" data-name="Icon" data-node-id="7941:2431">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#ef7f1a] box-border content-stretch flex gap-[10px] items-center justify-center overflow-clip px-[20px] py-[12px] relative rounded-[10px] shrink-0" data-node-id="7941:2433">
+              <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="7941:2434">
+                <p className="font-['Roboto:SemiBold',sans-serif] font-semibold leading-[normal] relative shrink-0 text-[16px] text-white" data-node-id="7941:2435" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  View More
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-[1720px]" data-name="Card Grid Image" data-node-id="7941:2436">
+          <div className="content-stretch flex flex-col gap-[var(--sds-size-space-200,8px)] items-start relative shrink-0" data-name="Text Content Heading" data-node-id="7941:2437">
+            <p className="capitalize font-['Roboto:Bold',sans-serif] font-bold leading-[normal] relative shrink-0 text-[#181a20] text-[40px] w-full whitespace-pre-wrap" data-node-id="7941:2438" style={{ fontVariationSettings: "'wdth' 100" }}>
+              Projects
+            </p>
+            <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#575757] text-[18px] w-full" data-node-id="7941:2439" style={{ fontVariationSettings: "'wdth' 100" }}>
+              <p className="leading-[normal] whitespace-pre-wrap">Explore premium residential developments offering curated lifestyles, modern architecture, and exceptional living experiences across Dubai.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="7941:2440">
+            <div className="content-stretch flex gap-[30px] items-start relative shrink-0" data-node-id="7941:2441">
+              <div className="bg-[var(--sds-color-background-default-default,#ffffff)] border-[var(--sds-color-border-default-default,#d9d9d9)] border-[var(--sds-size-stroke-border,1px)] border-solid box-border content-stretch flex flex-col gap-[var(--sds-size-space-400,16px)] items-start min-w-[240px] p-[30px] relative rounded-[12px] shrink-0 w-[845px]" data-name="Product Info Card" data-node-id="7941:2442">
+                <div className="h-[400px] overflow-clip relative rounded-[8px] shrink-0 w-full" data-name="Image" data-node-id="7941:2443">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[8px]">
+                    <div className="absolute bg-[var(--sds-color-slate-200,#e3e3e3)] inset-0 rounded-[8px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-cover rounded-[8px] size-full" src={imgImage} />
+                  </div>
+                  <div className="absolute h-[484px] left-[-38px] top-[-42px] w-[860px]" data-name="image 4" data-node-id="7941:2444">
+                    <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage4} />
+                  </div>
+                  <div className="absolute bg-white box-border content-stretch flex gap-[10px] items-center justify-center left-[calc(50%+-282px)] px-[17px] py-[11px] rounded-[6px] top-[332px] translate-x-[-50%]" data-name="div.property-price" data-node-id="7941:2445">
+                    <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2446" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">1.35M – 2.75M AED</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[16px] items-center justify-end relative shrink-0 w-full" data-node-id="7941:2447">
+                  <div className="content-stretch flex flex-col gap-[var(--sds-size-space-200,8px)] items-start relative shrink-0 w-[585px]" data-name="Body" data-node-id="7941:2448">
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text" data-node-id="7941:2449">
+                      <p className="flex-[1_0_0] font-['Roboto:Medium',sans-serif] font-medium leading-[normal] min-h-px min-w-px relative shrink-0 text-[20px] text-[color:var(--sds-color-text-default-default,#1e1e1e)] whitespace-pre-wrap" data-node-id="7941:2450" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        RISE BY ATHLON
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text Small" data-node-id="7941:2451">
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[16px] text-[color:var(--sds-color-text-default-secondary,#757575)]" data-node-id="7941:2452" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Dubailand, Dubai
+                      </p>
+                    </div>
+                    <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="7941:2453">
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2454">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2456" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">1–3 BR</p>
+                      </div>
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2457">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2459" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">936–2,152 sq ft</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-white border border-[#eb6753] border-solid h-[54.81px] relative rounded-[12px] shrink-0 w-[183.91px]" data-name="Button" data-node-id="7941:2460">
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[15px] justify-center leading-[0] left-[calc(50%+-0.42px)] text-[#ef7f1a] text-[16px] text-center top-[26.5px] translate-x-[-50%] translate-y-[-50%] w-[95.257px]" data-node-id="7941:2461" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">UPCOMING</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[var(--sds-color-background-default-default,#ffffff)] border-[var(--sds-color-border-default-default,#d9d9d9)] border-[var(--sds-size-stroke-border,1px)] border-solid box-border content-stretch flex flex-col gap-[var(--sds-size-space-400,16px)] items-start min-w-[240px] p-[30px] relative rounded-[12px] shrink-0 w-[845px]" data-name="Product Info Card" data-node-id="7941:2462">
+                <div className="h-[400px] overflow-clip relative rounded-[8px] shrink-0 w-full" data-name="Image" data-node-id="7941:2463">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[8px]">
+                    <div className="absolute bg-[var(--sds-color-slate-200,#e3e3e3)] inset-0 rounded-[8px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-contain opacity-20 rounded-[8px] size-full" src={imgImage1} />
+                  </div>
+                  <div className="absolute h-[458px] left-[-15px] top-[-29px] w-[815px]" data-name="image 5" data-node-id="7941:2464">
+                    <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage5} />
+                  </div>
+                  <div className="absolute bg-white box-border content-stretch flex gap-[10px] items-center justify-center left-[calc(50%+-306px)] px-[17px] py-[11px] rounded-[6px] top-[332px] translate-x-[-50%]" data-name="div.property-price" data-node-id="7941:2465">
+                    <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2466" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">8.10M+ AED</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[16px] items-center justify-end relative shrink-0 w-full" data-node-id="7941:2467">
+                  <div className="content-stretch flex flex-col gap-[var(--sds-size-space-200,8px)] items-start relative shrink-0 w-[585px]" data-name="Body" data-node-id="7941:2468">
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text" data-node-id="7941:2469">
+                      <p className="font-['Roboto:Medium',sans-serif] font-medium leading-[normal] relative shrink-0 text-[20px] text-[color:var(--sds-color-text-default-default,#1e1e1e)] w-[377px] whitespace-pre-wrap" data-node-id="7941:2470" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        EMAAR OASIS PHASE-II
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text Small" data-node-id="7941:2471">
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[16px] text-[color:var(--sds-color-text-default-secondary,#757575)]" data-node-id="7941:2472" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Dubai (Emaar Master Community)
+                      </p>
+                    </div>
+                    <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="7941:2473">
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2474">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2476" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">2–5 BR</p>
+                      </div>
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2477">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2479" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">1,000–5,000+ sq ft</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-white border border-[#eb6753] border-solid h-[54.81px] relative rounded-[12px] shrink-0 w-[183.91px]" data-name="Button" data-node-id="7941:2480">
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[15px] justify-center leading-[0] left-[calc(50%+-0.42px)] text-[#ef7f1a] text-[16px] text-center top-[26.5px] translate-x-[-50%] translate-y-[-50%] w-[95.257px]" data-node-id="7941:2481" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">UPCOMING</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[30px] items-start relative shrink-0" data-node-id="7941:2482">
+              <div className="bg-[var(--sds-color-background-default-default,#ffffff)] border-[var(--sds-color-border-default-default,#d9d9d9)] border-[var(--sds-size-stroke-border,1px)] border-solid box-border content-stretch flex flex-col gap-[var(--sds-size-space-400,16px)] items-start min-w-[240px] p-[30px] relative rounded-[12px] shrink-0 w-[845px]" data-name="Product Info Card" data-node-id="7941:2483">
+                <div className="h-[400px] overflow-clip relative rounded-[8px] shrink-0 w-full" data-name="Image" data-node-id="7941:2484">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none rounded-[8px]">
+                    <div className="absolute bg-[var(--sds-color-slate-200,#e3e3e3)] inset-0 rounded-[8px]" />
+                    <img alt="" className="absolute max-w-none object-50%-50% object-contain opacity-20 rounded-[8px] size-full" src={imgImage1} />
+                  </div>
+                  <div className="absolute h-[532px] left-0 top-[-66px] w-[785px]" data-name="image 6" data-node-id="7941:2485">
+                    <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage6} />
+                  </div>
+                  <div className="absolute bg-white box-border content-stretch flex gap-[10px] items-center justify-center left-[calc(50%+-277px)] px-[17px] py-[11px] rounded-[6px] top-[332px] translate-x-[-50%]" data-name="div.property-price" data-node-id="7941:2486">
+                    <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2487" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">1.90M – ~3.3M+ AED</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[16px] items-center justify-end relative shrink-0 w-full" data-node-id="7941:2488">
+                  <div className="content-stretch flex flex-col gap-[var(--sds-size-space-200,8px)] items-start relative shrink-0 w-[585px]" data-name="Body" data-node-id="7941:2489">
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text" data-node-id="7941:2490">
+                      <p className="font-['Roboto:Medium',sans-serif] font-medium leading-[normal] relative shrink-0 text-[20px] text-[color:var(--sds-color-text-default-default,#1e1e1e)] w-[374px] whitespace-pre-wrap" data-node-id="7941:2491" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        DUBAI ISLAND (ELLINGTON)
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text Small" data-node-id="7941:2492">
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[16px] text-[color:var(--sds-color-text-default-secondary,#757575)]" data-node-id="7941:2493" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Dubai Islands, Dubai
+                      </p>
+                    </div>
+                    <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="7941:2494">
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2495">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2497" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">1–4 BR</p>
+                      </div>
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2498">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2500" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">820–6,085 sq ft</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-white border border-[#eb6753] border-solid h-[54.81px] relative rounded-[12px] shrink-0 w-[183.91px]" data-name="Button" data-node-id="7941:2501">
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[15px] justify-center leading-[0] left-[calc(50%+-0.42px)] text-[#ef7f1a] text-[16px] text-center top-[26.5px] translate-x-[-50%] translate-y-[-50%] w-[95.257px]" data-node-id="7941:2502" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">UPCOMING</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[var(--sds-color-background-default-default,#ffffff)] border-[var(--sds-color-border-default-default,#d9d9d9)] border-[var(--sds-size-stroke-border,1px)] border-solid box-border content-stretch flex flex-col gap-[var(--sds-size-space-400,16px)] items-start min-w-[240px] p-[30px] relative rounded-[12px] shrink-0 w-[845px]" data-name="Product Info Card" data-node-id="7941:2503">
+                <div className="h-[400px] overflow-clip relative shrink-0 w-full" data-name="Image" data-node-id="7941:2504">
+                  <div className="absolute h-[400px] left-[3px] rounded-[8px] top-[0.5px] w-[779px]" data-name="image 7" data-node-id="7941:2505">
+                    <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none rounded-[8px] size-full" src={imgImage7} />
+                  </div>
+                  <div className="absolute bg-white box-border content-stretch flex gap-[10px] items-center justify-center left-[calc(50%+-307px)] px-[17px] py-[11px] rounded-[6px] top-[332px] translate-x-[-50%]" data-name="div.property-price" data-node-id="7941:2506">
+                    <div className="flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2507" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal]">2.4M+ AED</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[16px] items-center justify-end relative shrink-0 w-full" data-node-id="7941:2508">
+                  <div className="content-stretch flex flex-col gap-[var(--sds-size-space-200,8px)] items-start relative shrink-0 w-[585px]" data-name="Body" data-node-id="7941:2509">
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text" data-node-id="7941:2510">
+                      <p className="flex-[1_0_0] font-['Roboto:Medium',sans-serif] font-medium leading-[normal] min-h-px min-w-px relative shrink-0 text-[20px] text-[color:var(--sds-color-text-default-default,#1e1e1e)] whitespace-pre-wrap" data-node-id="7941:2511" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        EMAAR HEIGHTS
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Text Small" data-node-id="7941:2512">
+                      <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[normal] relative shrink-0 text-[16px] text-[color:var(--sds-color-text-default-secondary,#757575)]" data-node-id="7941:2513" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        Dubai (Emaar Development Zone)
+                      </p>
+                    </div>
+                    <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="7941:2514">
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2515">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2517" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">1–4 BR</p>
+                      </div>
+                      <div className="flex items-center justify-center relative shrink-0">
+                        <div className="flex-none scale-y-[-100%]">
+                          <div className="relative size-[16px]" data-name="Icon" data-node-id="7941:2518">
+                            <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-col font-['Roboto:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[#181a20] text-[14px] whitespace-nowrap" data-node-id="7941:2520" style={{ fontVariationSettings: "'wdth' 100" }}>
+                        <p className="leading-[normal]">750–3,000+ sq ft</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-white border border-[#eb6753] border-solid h-[54.81px] relative rounded-[12px] shrink-0 w-[183.91px]" data-name="Button" data-node-id="7941:2521">
+                    <div className="absolute flex flex-col font-['Roboto:SemiBold',sans-serif] font-semibold h-[15px] justify-center leading-[0] left-[calc(50%+-0.42px)] text-[#ef7f1a] text-[16px] text-center top-[26.5px] translate-x-[-50%] translate-y-[-50%] w-[95.257px]" data-node-id="7941:2522" style={{ fontVariationSettings: "'wdth' 100" }}>
+                      <p className="leading-[normal] whitespace-pre-wrap">UPCOMING</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[120px] items-center relative shrink-0 w-full" data-name="Blog" data-node-id="7941:2523">
+        <div className="bg-[#181a20] box-border content-stretch flex flex-col gap-[60px] items-start px-[165px] py-[60px] relative shrink-0 w-[1920px]" data-name="Footer" data-node-id="7941:2524">
+          <div className="content-stretch flex gap-[30px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:2525">
+            <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[695px]" data-node-id="7941:2526">
+              <div className="h-[42px] relative shrink-0 w-[265px]" data-name="image 2" data-node-id="7941:2527">
+                <img alt="" className="absolute inset-0 max-w-none object-50%-50% object-cover pointer-events-none size-full" src={imgImage2} />
+              </div>
+              <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="7941:2528">
+                <div className="content-stretch flex gap-[12px] items-start relative shrink-0 w-full" data-node-id="7941:2529">
+                  <div className="h-[20.667px] relative shrink-0 w-[17.012px]" data-name="Group" data-node-id="7941:2530">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-start min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2533">
+                    <p className="font-['Lato:Regular',sans-serif] leading-[1.6] not-italic relative shrink-0 text-[16px] text-white w-[622px] whitespace-pre-wrap" data-node-id="7941:2534">{`Unit Number: 311, 3rd Floor, Burlington Tower, Business Bay, Dubai, UAE. `}</p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[12px] items-center justify-center relative shrink-0 w-full" data-node-id="7941:2535">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Component 4" data-node-id="7941:2536">
+                    <div className="absolute inset-[5.21%_5.2%_17.71%_13.54%]" data-name="Vector" data-node-id="I7941:2536;1882:12663">
+                      <div className="absolute inset-0" style={{ "--fill-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex-[1_0_0] grid-cols-[max-content] grid-rows-[max-content] inline-grid justify-items-start leading-[0] min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2537">
+                    <p className="col-[1] font-['Lato:Regular',sans-serif] leading-[1.6] ml-0 mt-0 not-italic relative row-[1] text-[16px] text-white w-[663px] whitespace-pre-wrap" data-node-id="7941:2538">
+                      +971 42 51 5556
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[12px] items-center relative shrink-0 w-full" data-node-id="7941:2539">
+                  <div className="relative shrink-0 size-[20px]" data-name="fluent:mail-24-regular" data-node-id="7941:2540">
+                    <img alt="" className="block max-w-none size-full" src={imgFluentMail24Regular} />
+                  </div>
+                  <div className="flex-[1_0_0] grid-cols-[max-content] grid-rows-[max-content] inline-grid justify-items-start leading-[0] min-h-px min-w-px relative shrink-0" data-name="Text" data-node-id="7941:2542">
+                    <p className="col-[1] font-['Lato:Regular',sans-serif] leading-[1.6] ml-0 mt-0 not-italic relative row-[1] text-[16px] text-white w-[663px] whitespace-pre-wrap" data-node-id="7941:2543">
+                      info@propshopglobal.org
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[15px] items-center relative shrink-0" data-node-id="7941:2549">
+                <div className="bg-[var(--general\/100,#f2f2f2)] content-stretch flex gap-[10px] items-center justify-center relative rounded-[10px] shrink-0 size-[32px]" data-name="Icon" data-node-id="7941:2550">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icons" data-node-id="7941:2551">
+                    <div className="absolute inset-[8.33%_10.44%_8.33%_8.33%]" data-name="Group" data-node-id="7941:2552">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup2} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/facebook/White" data-node-id="7941:2554">
+                  <div className="absolute left-1/2 size-[32px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-node-id="7941:2555">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup3693} />
+                  </div>
+                </div>
+                <div className="bg-[var(--general\/100,#f2f2f2)] content-stretch flex gap-[10px] items-center justify-center relative rounded-[10px] shrink-0 size-[32px]" data-name="Icon" data-node-id="7941:2558">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icons" data-node-id="7941:2559">
+                    <div className="absolute inset-[8.33%_8.35%_8.33%_8.33%]" data-name="Group" data-node-id="7941:2560">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup3} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/instagram/White" data-node-id="7941:2564">
+                  <div className="absolute contents left-[4px] top-[4px]" data-node-id="7941:2565">
+                    <div className="absolute bg-white left-[4px] rounded-[10px] size-[32px] top-[4px]" data-node-id="7941:2566" />
+                    <div className="absolute left-[7.5px] size-[26px] top-[7.12px]" data-name="Whatsapp" data-node-id="7941:2567">
+                      <img alt="" className="block max-w-none size-full" src={imgWhatsapp} />
+                    </div>
+                  </div>
+                </div>
+                <div className="overflow-clip relative shrink-0 size-[40px]" data-name="Iconsax/Bulk/instagram/White" data-node-id="7941:2572">
+                  <div className="absolute left-1/2 size-[32px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-node-id="7941:2573">
+                    <img alt="" className="block max-w-none size-full" src={imgGroup3702} />
+                  </div>
+                </div>
+                <div className="flex flex-row items-center self-stretch">
+                  <div className="h-full overflow-clip relative shrink-0 w-[40px]" data-name="Iconsax/Bulk/youtube/White" data-node-id="7941:2576">
+                    <div className="absolute bg-white left-[4px] rounded-[10px] size-[32px] top-[4px]" data-node-id="7941:2577" />
+                    <div className="absolute h-[14px] left-1/2 top-1/2 translate-x-[-50%] translate-y-[-50%] w-[20px]" data-name="Vector" data-node-id="7941:2578">
+                      <img alt="" className="block max-w-none size-full" src={imgVector} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[52px] items-start justify-center relative shrink-0 w-[850px]" data-node-id="7941:2579">
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[143px]" data-node-id="7941:2580">
+                <p className="capitalize font-['Lato:Bold',sans-serif] leading-[1.25] not-italic relative shrink-0 text-[22px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2581">
+                  explore
+                </p>
+                <div className="content-stretch flex flex-col font-['Lato:Regular',sans-serif] gap-[16px] items-start leading-[1.6] not-italic relative shrink-0 text-[16px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2582">
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2583">
+                    Home
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2584">
+                    Projects
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2585">
+                    Blog
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2586">
+                    About Us
+                  </p>
+                  <p className="relative shrink-0 w-full" data-node-id="7941:2587">
+                    Contact Us
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 text-center text-white w-[158.922px]" data-name="Menu" data-node-id="7941:2588">
+                <p className="font-['Roboto:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[20px]" data-node-id="7941:2589" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Services
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2590" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Buy a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2591" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Sell a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2592" style={{ fontVariationSettings: "'wdth' 100" }}>
+                  Rent a Property
+                </p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2593" style={{ fontVariationSettings: "'wdth' 100" }}>{`Terms & Conditions`}</p>
+                <p className="font-['Roboto:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px]" data-node-id="7941:2594" style={{ fontVariationSettings: "'wdth' 100" }}>{`Privacy & Policy`}</p>
+              </div>
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[155px]" data-node-id="7941:2595">
+                <p className="capitalize font-['Lato:Bold',sans-serif] leading-[1.25] not-italic relative shrink-0 text-[22px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2596">{`T&C`}</p>
+                <div className="content-stretch flex flex-col gap-[16px] items-start leading-[1.6] relative shrink-0 text-[16px] text-white w-full whitespace-pre-wrap" data-node-id="7941:2597">
+                  <p className="font-['Lato:Regular',sans-serif] not-italic relative shrink-0 w-full" data-node-id="7941:2598">
+                    Property on sale
+                  </p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2599" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`About Us `}</p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2600" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`Our Team `}</p>
+                  <p className="font-['Lato:Regular','Noto_Sans:Regular',sans-serif] relative shrink-0 w-full" data-node-id="7941:2601" style={{ fontVariationSettings: "'CTGR' 0, 'wdth' 100, 'wght' 400" }}>{`Terms of use `}</p>
+                  <p className="font-['Lato:Regular',sans-serif] not-italic relative shrink-0 w-full" data-node-id="7941:2602">
+                    Privacy Policy
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: P2 - Semibold: Font(family: "Roboto", style: SemiBold, size: 16, weight: 600, lineHeight: 100, letterSpacing: 0), h2: Font(family: "Roboto", style: SemiBold, size: 36, weight: 600, lineHeight: 100, letterSpacing: 0), P1 - regular: Font(family: "Roboto", style: Regular, size: 18, weight: 400, lineHeight: 100, letterSpacing: 0), p2 - regular: Font(family: "Roboto", style: Regular, size: 16, weight: 400, lineHeight: 100, letterSpacing: 0), For Bg Dark: #FFFFFF, Icons: #181A20, P4 - Semibold: Font(family: "Roboto", style: SemiBold, size: 12, weight: 600, lineHeight: 100, letterSpacing: 0), Primary: #EF7F1A, P3 - Semibold: Font(family: "Roboto", style: SemiBold, size: 14, weight: 600, lineHeight: 100, letterSpacing: 0), p - Medium: Font(family: "Roboto", style: Medium, size: 20, weight: 500, lineHeight: 100, letterSpacing: 0), Placeholder: #575757, p3 - regular: Font(family: "Roboto", style: Regular, size: 14, weight: 400, lineHeight: 100, letterSpacing: 0), h1: Font(family: "Roboto", style: Bold, size: 40, weight: 700, lineHeight: 100, letterSpacing: 0), Image Placeholder: #E3E3E3,, p: Font(family: "Lato", style: Regular, size: 16, weight: 400, lineHeight: 1.600000023841858, letterSpacing: 0), h4: Font(family: "Lato", style: Bold, size: 22, weight: 700, lineHeight: 1.25, letterSpacing: 0).
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>
