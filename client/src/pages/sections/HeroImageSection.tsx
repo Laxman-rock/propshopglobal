@@ -218,8 +218,22 @@ export const HeroImageSection = (): JSX.Element => {
   return (
     <section className="flex flex-col items-center relative w-full">
       <div className="flex flex-col items-start relative w-full">
-        <div className="relative w-full min-h-[500px] md:min-h-[650px] lg:min-h-[827px] bg-[linear-gradient(0deg,rgba(0,0,0,0.3)_0%,rgba(0,0,0,0.3)_100%),url(../figmaAssets/section---main---section.png)] bg-cover bg-center bg-no-repeat">
-          <div className="container mx-auto px-4 md:px-6 lg:px-8 max-w-[1700px]">
+        <div className="relative w-full min-h-[500px] md:min-h-[650px] lg:min-h-[827px] overflow-hidden">
+          {/* Background Video */}
+          <video
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="absolute top-0 left-0 w-full h-full object-cover z-0"
+          >
+            <source src="/figmaAssets/the-tallest-block-dubai-marina-dubai.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+          {/* Overlay Gradient */}
+          <div className="absolute top-0 left-0 w-full h-full bg-[linear-gradient(0deg,rgba(0,0,0,0.3)_0%,rgba(0,0,0,0.3)_100%)] z-10" />
+          {/* Content */}
+          <div className="container mx-auto px-4 md:px-6 lg:px-8 max-w-[1700px] relative z-20">
             <header className="flex items-center justify-between pt-4 pb-4 md:pt-5 md:pb-5">
               <Link href="/">
                 <img

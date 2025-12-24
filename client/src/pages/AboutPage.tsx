@@ -109,7 +109,7 @@ const leadership = [
   },
   {
     name: "Hardik Marwaha",
-    role: "Chief Operating Officer",
+    role: "Chief Sales Officer",
     email: "hardik.marwaha@propshopglobal.ae",
     image: hardikMarwahaImg,
   },
@@ -237,9 +237,12 @@ export const AboutPage = (): JSX.Element => {
               </h2>
               <div className="flex flex-col gap-4">
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p1">
-                  Buying property shouldn't feel overwhelming. Whether you're an investor or a first-time buyer, you deserve clear guidance and trustworthy advice that leads to confident decisions. That's where Prop Shop Global comes in.
+                  Prop Shop Global is your trusted partner in real estate, delivering transparent, research-driven property solutions across Dubai. With integrity, expertise, and client-focused guidance, we help buyers and investors, make informed, confident decisions—turning opportunities into long-term value and lasting success.
                 </p>
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
+                 At Prop Shop Global, we know real estate is more than just a transaction, it’s about creating lasting value and matching clients with the perfect opportunities. With attention to detail and a commitment to excellence, every opportunity we present reflects our dedication to your long-term success.
+                </p>
+                {/* <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
                   Since 2014, Prop Shop Global has helped clients cut through confusion and uncertainty by offering transparent, research-backed property consulting across Dubai and major international markets. Our team acts as your guide—bringing clarity, ethical advisory, and real market intelligence to every step of your property journey.
                 </p>
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p3">
@@ -258,7 +261,7 @@ export const AboutPage = (): JSX.Element => {
                 </p>
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed italic" data-testid="text-who-we-are-p6">
                   Because with the right guidance, property investment becomes not just a purchase… but a powerful step toward building lasting wealth.
-                </p>
+                </p> */}
               </div>
               <Link href="/contact">
                 <Button className="w-fit bg-[#ef7f1a] hover:bg-[#ef7f1a]/90 text-white font-semibold px-8 py-3 rounded-lg" data-testid="button-contact-us">
@@ -291,8 +294,8 @@ export const AboutPage = (): JSX.Element => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
-            {services.map((service, index) => (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+            {services.slice(0, 3).map((service, index) => (
               <Card key={index} className="border-[#e0e0e0] hover-elevate" data-testid={`card-service-${index}`}>
                 <CardContent className="p-6 flex flex-col items-center text-center gap-4">
                   <div className="w-16 h-16 rounded-full bg-[#ef7f1a]/10 flex items-center justify-center">
@@ -307,6 +310,29 @@ export const AboutPage = (): JSX.Element => {
                 </CardContent>
               </Card>
             ))}
+            {services.length > 3 && (
+              <div className="col-span-1 sm:col-span-2 lg:col-span-3 flex flex-col sm:flex-row lg:justify-center gap-6">
+                {services.slice(3).map((service, index) => (
+                  <Card 
+                    key={index + 3} 
+                    className="border-[#e0e0e0] hover-elevate w-full sm:flex-1 sm:max-w-none lg:max-w-[300px]" 
+                    data-testid={`card-service-${index + 3}`}
+                  >
+                    <CardContent className="p-6 flex flex-col items-center text-center gap-4">
+                      <div className="w-16 h-16 rounded-full bg-[#ef7f1a]/10 flex items-center justify-center">
+                        <img src={service.icon} alt={service.title} className="w-8 h-8" />
+                      </div>
+                      <h3 className="text-[#181a20] text-lg font-semibold" data-testid={`text-service-title-${index + 3}`}>
+                        {service.title}
+                      </h3>
+                      <p className="text-[#575757] text-sm" data-testid={`text-service-desc-${index + 3}`}>
+                        {service.description}
+                      </p>
+                    </CardContent>
+                  </Card>
+                ))}
+              </div>
+            )}
           </div>
 
           <div className="flex justify-center">
@@ -339,8 +365,7 @@ export const AboutPage = (): JSX.Element => {
                     <div className="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-4 border-white/20 mb-4">
                       <img
                         src={leader.image}
-                        alt={leader.name}
-                        className="w-full h-full object-cover"
+                        alt={leader.name} 
                         data-testid={`img-leader-${index}`}
                       />
                     </div>
@@ -384,8 +409,7 @@ export const AboutPage = (): JSX.Element => {
                   <div className="w-24 h-24 md:w-28 md:h-28 rounded-full overflow-hidden border-4 border-[#ef7f1a]/20">
                     <img
                       src={agent.image}
-                      alt={agent.name}
-                      className="w-full h-full object-cover"
+                      alt={agent.name} 
                       data-testid={`img-agent-${index}`}
                     />
                   </div>

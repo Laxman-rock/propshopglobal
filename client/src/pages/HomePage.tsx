@@ -13,6 +13,42 @@ import { VideoShowcaseSection } from "./sections/VideoShowcaseSection";
 
 const clientLogos = [
   {
+    src: "/figmaAssets/azizi.png",
+    alt: "Azizi",
+  },
+  {
+    src: "/figmaAssets/binghatti.png",
+    alt: "Binghatti",
+  },
+  {
+    src: "/figmaAssets/danube.png",
+    alt: "Danube",
+  },
+  {
+    src: "/figmaAssets/deyaar.png",
+    alt: "Deyaar",
+  },
+  {
+    src: "/figmaAssets/ellington.png",
+    alt: "Ellington",
+  },
+  {
+    src: "/figmaAssets/meraas.png",
+    alt: "Meraas",
+  },
+  {
+    src: "/figmaAssets/omniyat.png",
+    alt: "Omniyat",
+  },
+  {
+    src: "/figmaAssets/sobha.png",
+    alt: "Sobha",
+  },
+  {
+    src: "/figmaAssets/wasl.png",
+    alt: "Wasl",
+  },
+  {
     src: "/figmaAssets/client-logo-02-2.png",
     alt: "Client logo",
   },
@@ -36,10 +72,15 @@ const clientLogos = [
     src: "/figmaAssets/emaar-1.png",
     alt: "Emaar",
   },
+  
 ];
 
-const ANIMATION_DURATION = 30; // seconds
-const TOTAL_DOTS = 3;
+// Calculate animation duration based on number of logos
+// Each logo should be visible for approximately 2.5 seconds to ensure all logos are shown
+const LOGO_COUNT = clientLogos.length;
+const SECONDS_PER_LOGO = 2.5;
+const ANIMATION_DURATION = LOGO_COUNT * SECONDS_PER_LOGO; // Total duration for one full cycle through all logos
+const TOTAL_DOTS = 4;
 
 export const HomePage = (): JSX.Element => {
   const [activeDotIndex, setActiveDotIndex] = useState(0);
@@ -110,7 +151,9 @@ export const HomePage = (): JSX.Element => {
             .logo-scroll-container {
               display: flex;
               gap: 2.5rem;
-              animation: scroll 30s linear infinite;
+              width: max-content;
+              animation: scroll ${ANIMATION_DURATION}s linear infinite;
+              will-change: transform;
             }
             .logo-scroll-container:hover {
               animation-play-state: paused;
@@ -152,7 +195,7 @@ export const HomePage = (): JSX.Element => {
           {Array.from({ length: TOTAL_DOTS }).map((_, index) => (
             <div
               key={`pagination-dot-${index}`}
-              className={`h-2.5 rounded-lg transition-all duration-300 ${
+              className={`h-2.5 rounded-lg transition-all duration-400 ${
                 index === activeDotIndex
                   ? "w-[11px] bg-[#222222]"
                   : "w-2.5 bg-[#c0c0c0]"
