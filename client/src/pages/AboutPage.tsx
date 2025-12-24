@@ -15,7 +15,7 @@ import hardikMarwahaImg from "@assets/Hardik_Marwaha_1764716362938.png";
 import samarthNarulaImg from "@assets/Samarth_Narula_1764716362938.png";
 import sagarMarwahaImg from "@assets/Sagar_Marwaha_1764716362937.png"; 
 import heroBackgroundImg from "@assets/stock_images/palm_jumeirah_dubai__c5859750.jpg";
-import whoWeAreImg from "@assets/stock_images/professional_busines_4b32345c.jpg";
+import whoWeAreImg from "@assets/stock_images/professional_busines_4b32345c.jpeg";
 
 const socialLinks = [
   { icon: Facebook, href: "https://www.facebook.com/propshopglobal", label: "Facebook" },
@@ -119,7 +119,7 @@ const topAgents = [
   {
     name: "Samarth Narula",
     phone: "+971 55 682 2259",
-    email: "samarth@propshopglobal.ae",
+    email: "samarth@propshopglobal.org",
     image: samarthNarulaImg,
   },
   {
@@ -233,15 +233,23 @@ export const AboutPage = (): JSX.Element => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
             <div className="flex flex-col gap-6">
               <h2 className="text-[#181a20] text-2xl md:text-3xl lg:text-[40px] font-bold" data-testid="text-who-we-are-title">
-                Your Partner for High-Growth Global Investment Opportunities
+                A Word From our CEO
               </h2>
               <div className="flex flex-col gap-4">
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p1">
-                  Prop Shop Global is your trusted partner in real estate, delivering transparent, research-driven property solutions across Dubai. With integrity, expertise, and client-focused guidance, we help buyers and investors, make informed, confident decisions—turning opportunities into long-term value and lasting success.
+                At Prop Shop Global, we know real estate is more than just a transaction—it’s about unlocking sustainable success and matching clients with the perfect opportunities. We redefine the real estate experience in Dubai—helping families, investors, and communities find spaces they can truly call their own.
                 </p>
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
-                 At Prop Shop Global, we know real estate is more than just a transaction, it’s about creating lasting value and matching clients with the perfect opportunities. With attention to detail and a commitment to excellence, every opportunity we present reflects our dedication to your long-term success.
+                Guided by integrity, innovation, and client-focused service, our team turns opportunities into confident, informed decisions. In a dynamic market, we stay ahead with foresight, strategy, and the latest technologies to add real value to every client’s journey. More than a company, Prop Shop Global is a community built on trust, dedication, and shared success.
                 </p>
+                <div className="mt-2">
+                  <p className="text-[#181a20] text-[22px] font-bold leading-tight" data-testid="text-ceo-name">
+                    Arav Bathla
+                  </p>
+                  <p className="text-[#181a20] text-lg leading-tight mt-1" data-testid="text-ceo-role">
+                    CEO
+                  </p>
+                </div>
                 {/* <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
                   Since 2014, Prop Shop Global has helped clients cut through confusion and uncertainty by offering transparent, research-backed property consulting across Dubai and major international markets. Our team acts as your guide—bringing clarity, ethical advisory, and real market intelligence to every step of your property journey.
                 </p>
