@@ -16,6 +16,7 @@ import samarthNarulaImg from "@assets/Samarth_Narula_1764716362938.png";
 import sagarMarwahaImg from "@assets/Sagar_Marwaha_1764716362937.png"; 
 import heroBackgroundImg from "@assets/stock_images/palm_jumeirah_dubai__c5859750.jpg";
 import whoWeAreImg from "@assets/stock_images/professional_busines_4b32345c.jpeg";
+import whatWeDoImgLeft from "@assets/stock_images/Hardik_marwaha-left.jpg"; 
 
 const socialLinks = [
   { icon: Facebook, href: "https://www.facebook.com/propshopglobal", label: "Facebook" },
@@ -233,43 +234,23 @@ export const AboutPage = (): JSX.Element => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
             <div className="flex flex-col gap-6">
               <h2 className="text-[#181a20] text-2xl md:text-3xl lg:text-[40px] font-bold" data-testid="text-who-we-are-title">
-                A Word From our CEO
+                From our CEO
               </h2>
               <div className="flex flex-col gap-4">
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p1">
-                At Prop Shop Global, we know real estate is more than just a transaction—it’s about unlocking sustainable success and matching clients with the perfect opportunities. We redefine the real estate experience in Dubai—helping families, investors, and communities find spaces they can truly call their own.
+                At Prop Shop Global, we know real estate is more than just a transaction it's about unlocking sustainable success and matching clients with the perfect opportunities. We redefine the real estate experience in Dubai helping families, investors, and communities find spaces they can truly call their own.
                 </p>
                 <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
-                Guided by integrity, innovation, and client-focused service, our team turns opportunities into confident, informed decisions. In a dynamic market, we stay ahead with foresight, strategy, and the latest technologies to add real value to every client’s journey. More than a company, Prop Shop Global is a community built on trust, dedication, and shared success.
+                Guided by integrity, innovation, and client-focused service, our team turns opportunities into confident, informed decisions. In a dynamic market, we stay ahead with foresight, strategy, and the latest technologies to add real value to every client's journey. More than a company, Prop Shop Global is a community built on trust, dedication, and shared success.
                 </p>
                 <div className="mt-2">
-                  <p className="text-[#181a20] text-[22px] font-bold leading-tight" data-testid="text-ceo-name">
+                  <p className="text-[#181a20] text-[22px] italic font-bold leading-tight" data-testid="text-ceo-name" style={{ fontFamily: "Georgia, serif" }}>
                     Arav Bathla
                   </p>
                   <p className="text-[#181a20] text-lg leading-tight mt-1" data-testid="text-ceo-role">
-                    CEO
+                    CEO & Managing Director
                   </p>
-                </div>
-                {/* <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p2">
-                  Since 2014, Prop Shop Global has helped clients cut through confusion and uncertainty by offering transparent, research-backed property consulting across Dubai and major international markets. Our team acts as your guide—bringing clarity, ethical advisory, and real market intelligence to every step of your property journey.
-                </p>
-                <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p3">
-                  With our 2024 expansion into Dubai, we've extended our mission to a wider global audience—helping buyers, investors, and developers identify high-ROI, high-growth opportunities in one of the world's fastest-expanding real estate hubs.
-                </p>
-                <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p4">
-                  At Prop Shop Global, our approach is simple:
-                </p>
-                <ul className="text-[#575757] text-base lg:text-lg leading-relaxed list-disc list-inside pl-2 space-y-1">
-                  <li>Make the market clear.</li>
-                  <li>Make the numbers make sense.</li>
-                  <li>Make every decision confident and informed.</li>
-                </ul>
-                <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-who-we-are-p5">
-                  When you work with us, you're not navigating the real estate world alone—you're guided by a team committed to integrity, expertise, and your long-term success.
-                </p>
-                <p className="text-[#575757] text-base lg:text-lg leading-relaxed italic" data-testid="text-who-we-are-p6">
-                  Because with the right guidance, property investment becomes not just a purchase… but a powerful step toward building lasting wealth.
-                </p> */}
+                </div> 
               </div>
               <Link href="/contact">
                 <Button className="w-fit bg-[#ef7f1a] hover:bg-[#ef7f1a]/90 text-white font-semibold px-8 py-3 rounded-lg" data-testid="button-contact-us">
@@ -278,11 +259,14 @@ export const AboutPage = (): JSX.Element => {
                 </Button>
               </Link>
             </div>
-            <div className="relative h-[300px] md:h-[400px] lg:h-[500px] rounded-xl overflow-hidden">
+            <div className="relative h-[250px] md:h-[300px] lg:h-[750px] rounded-xl overflow-hidden ">
               <img
                 src={whoWeAreImg}
                 alt="Prop Shop Global Team"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
+                style={{ objectFit: "cover",objectPosition: "center bottom"}}
+                width={500}
+                height={1000}
                 data-testid="img-who-we-are"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
@@ -290,8 +274,54 @@ export const AboutPage = (): JSX.Element => {
           </div>
         </div>
       </section>
-      {/* What We Do Section */}
+      {/* Hardik Marwaha Section */}
       <section className="w-full py-12 md:py-16 lg:py-20 px-4 md:px-8 lg:px-[110px] bg-[#f8f8f8]">
+        <div className="max-w-[1700px] mx-auto">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
+            <div className="relative h-[250px] md:h-[300px] lg:h-[700px] rounded-xl overflow-hidden order-2 lg:order-1">
+              <img
+                src={whatWeDoImgLeft}
+                alt="Hardik Marwaha"
+                className="w-full h-full object-cover"
+                style={{ objectPosition: "center top" }}
+                width={500}
+                height={1000}
+                data-testid="img-hardik"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
+            </div>
+            <div className="flex flex-col gap-6 order-1 lg:order-2">
+              <h2 className="text-[#181a20] text-2xl md:text-3xl lg:text-[40px] font-bold" data-testid="text-hardik-title">
+                From our CSO
+              </h2>
+              <div className="flex flex-col gap-4">
+                <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-hardik-p1">
+                  With more than 12 years in global real estate, I’ve realized that true success doesn’t come from selling properties. It comes from understanding people and fostering relationships that stand the test of time. At Prop Shop Global, our team lives by this belief in everything we do.
+                </p>
+                <p className="text-[#575757] text-base lg:text-lg leading-relaxed" data-testid="text-hardik-p2">
+                  We start by listening. Every client has their own story, goals, and vision, and together, we provide honest market insights and tailored guidance they can rely on. Our collective experience has helped us achieve exceptional results and industry recognition, but what matters most is the trust our clients place in us and the enduring relationships we build. There’s no greater reward than seeing our clients return and bring their families and friends because they know we’re a team they can count on.
+                </p>
+                <div className="mt-2">
+                  <p className="text-[#181a20] text-[22px] italic font-bold leading-tight" data-testid="text-hardik-name" style={{ fontFamily: "Georgia, serif" }}>
+                    Hardik Marwaha
+                  </p>
+                  <p className="text-[#181a20] text-lg leading-tight mt-1" data-testid="text-hardik-role">
+                    Chief Sales Officer
+                  </p>
+                </div> 
+              </div>
+              <Link href="/contact">
+                <Button className="w-fit bg-[#ef7f1a] hover:bg-[#ef7f1a]/90 text-white font-semibold px-8 py-3 rounded-lg" data-testid="button-contact-us-hardik">
+                  Contact Us
+                  <ArrowRight className="w-4 h-4 ml-2" />
+                </Button>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* What We Do Section */}
+      <section className="w-full py-12 md:py-16 lg:py-20 px-4 md:px-8 lg:px-[110px] bg-white">
         <div className="max-w-[1700px] mx-auto">
           <div className="text-center mb-10 md:mb-14">
             <h2 className="text-[#181a20] text-2xl md:text-3xl lg:text-[40px] font-bold mb-4" data-testid="text-what-we-do-title">

@@ -1,5 +1,5 @@
 import { Link, useLocation } from "wouter";
-import { useState, useCallback } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
@@ -186,6 +186,13 @@ export const HeroImageSection = (): JSX.Element => {
   const [beds, setBeds] = useState("");
   const [baths, setBaths] = useState("");
   const [showAdvanced, setShowAdvanced] = useState(false);
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.playbackRate = 0.5; // Slow down to 50% speed
+    }
+  }, []);
   
   const handleSearch = useCallback(() => {
     const params = new URLSearchParams();
@@ -221,6 +228,7 @@ export const HeroImageSection = (): JSX.Element => {
         <div className="relative w-full min-h-[500px] md:min-h-[650px] lg:min-h-[827px] overflow-hidden">
           {/* Background Video */}
           <video
+            ref={videoRef}
             autoPlay
             loop
             muted
